@@ -4,7 +4,9 @@ title: "De la critique bien conduite"
 date: "2016-11-25 14:30:12 +0100"
 categories: Photo
 comments: true
+summary: "Je vous propose un petit questionnaire, destiné à faciliter une critique raisonnée et approfondie des photographies."
 ---
+
 {% include toc %}
 En m’inspirant très librement d’une grille de lecture proposée, en anglais, sur le site fameux de [Fred Miranda](http://fredmiranda.com){:target="_blank"}, je vous propose ce petit questionnaire, destiné à faciliter une critique raisonnée et approfondie des photographies.
 
