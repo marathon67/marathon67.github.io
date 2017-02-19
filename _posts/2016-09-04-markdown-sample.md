@@ -2,7 +2,10 @@
 layout: single
 title:  "Markdown sample"
 date:   2016-09-04
-categories: jekyll
+categories: Jekyll
+summary: Un résumé des possibilités offertes par le langage de balisage Markdon dans les Github Pages et Jekyll.
+sidebar:
+  nav: "docs"
 ---
 
 ### Markdown test document

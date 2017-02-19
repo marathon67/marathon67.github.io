@@ -1,12 +1,31 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Twine"
+    url: /categories/twine
+  - title: "Jekyll"
+    url: /categories/jekyll
+  - title: "Photo"
+    url: /categories/photo
+  - title: "Divers"
+    url: /categories/divers
+  - title: "Archives"
+    url: /categories
+  - title: "Sitemap"
+    url: /sitemap
+
+docs:
+  - title: Archives
+    children:
+      - title: "Par Année"
+        url: /year/
+      - title: "Par Catégories"
+        url: /categories/
+      - title: "Par Mots-clés"
+        url: /tags/
+
+  - title: Extras
+    children:
+      - title: "Twine"
+        url: /docs/stylesheets/
+      - title: "Sugarcube"
+        url: /docs/javascript/
