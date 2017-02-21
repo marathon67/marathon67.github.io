@@ -4,6 +4,8 @@ title: "De la critique bien conduite"
 date: "2016-11-25 14:30:12 +0100"
 categories: Photo
 comments: true
+sidebar:
+  nav: "docs"
 summary: "Je vous propose un petit questionnaire, destiné à faciliter une critique raisonnée et approfondie des photographies."
 ---
 

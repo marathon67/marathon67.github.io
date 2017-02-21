@@ -15,7 +15,7 @@ url                      : "http://www.bac-a-sable.eu"# the base hostname & prot
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "marathon67/marathon67.github.io"
 #teaser                   : "/assets/images/bandeau.jpg"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre KESSLER"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Bientôt retraité... enfin."
   location         : "Pays de Hanau"
   email            :
@@ -185,6 +185,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-github-metadata
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -212,14 +213,12 @@ tag_archive:
   type: jekyll-archives
   path: /tags/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
@@ -232,9 +231,17 @@ defaults:
       author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       sidebar: true
+ # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # _docs
   - scope:
       path: ""

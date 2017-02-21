@@ -6,8 +6,6 @@ categories: Divers
 summary: Une rapide présentation du "pourquoi" et du "comment" de ce nouveau site.
 sidebar:
   nav: "docs"
-
-
 ---
 La version (presque) réellement opérationnelle de mon site **Bac-à-Sable** ouvre aujourd'hui.  
 Il est en ligne sur *Github* et les mises à jour se font sans douleur.

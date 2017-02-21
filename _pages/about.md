@@ -2,8 +2,10 @@
 layout: single
 title: À propos
 permalink: /about/
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
-# Vous avez dit *Bac-à-Sable* ?
 
 ## Quoi ?
 *Bac-à-Sable*, c'est un petit site personnel, destiné à expérimenter sans risques (d'où son nom) et à faire partager quelques engouements pour des technologies numériques :
@@ -18,9 +20,9 @@ Une envie de propager des techniques pas très compliquées mais connues surtout
 Techniquement parlant, les quelques lignes ci-dessus vous ont déjà donnés quelques pistes :
 
 * Un site statique réalisé avec Jekyll
-* et hébergé gratuitement sur la plateforme **GitHub**
-* des mises à jours *poussées* avec **Git**
-* et **Atom** pour rédiger en **Markdown**
+* et hébergé gratuitement sur la plateforme **GitHub**.
+* des mises à jours *poussées* avec **Git**.
+* et **Atom** pour rédiger en **Markdown**.
 * ... sur une station de travail sous Linux, évidemment (les puristes me pardonneront d'utiliser **Mint**)
 
 ## Qui ?

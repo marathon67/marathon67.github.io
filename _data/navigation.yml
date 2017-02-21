@@ -1,17 +1,15 @@
 # main links
 main:
-  - title: "Twine"
-    url: /categories/twine
+  - title: "Divers"
+    url: /categories/divers
   - title: "Jekyll"
     url: /categories/jekyll
   - title: "Photo"
     url: /categories/photo
-  - title: "Divers"
-    url: /categories/divers
-  - title: "Archives"
-    url: /categories
-  - title: "Sitemap"
-    url: /sitemap
+  - title: "Twine"
+    url: /categories/twine
+  - title: "À propos"
+    url: /about
 
 docs:
   - title: Archives
@@ -22,10 +20,25 @@ docs:
         url: /categories/
       - title: "Par Mots-clés"
         url: /tags/
-
-  - title: Extras
+  - title: Références
     children:
       - title: "Twine"
-        url: /docs/stylesheets/
-      - title: "Sugarcube"
-        url: /docs/javascript/
+        url: "https://twinery.org"
+      - title: "Sugarcube 2"
+        url: "http://www.motoslave.net/sugarcube/2/"
+      - title: "Jekyll"
+        url: "https://jekyllrb.com/"
+      - title: "Atom"
+        url: "https://atom.io/"
+      - title: "Git"
+        url: "https://git-scm.com/"
+      - title: "Github"
+        url: "https://github.com/"
+  - title: Aventures
+    children:
+      - title: "Le mini-monde"
+        url: "/mini-monde/"
+      - title: "Le loup et l'agneau"
+        url: "/agneau"
+      - title: "Le petit chaperon rouge"
+        url: "/chaperon"
