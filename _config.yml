@@ -15,7 +15,7 @@ url                      : "http://www.bac-a-sable.eu"# the base hostname & prot
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "marathon67/marathon67.github.io"
 #teaser                   : "/assets/images/bandeau.jpg"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
