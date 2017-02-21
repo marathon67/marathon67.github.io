@@ -79,31 +79,11 @@ analytics:
 author:
   name             : "Pierre KESSLER"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Bientôt retraité... enfin."
+  bio              : "Éternel apprenti, bientôt retraité... enfin."
   location         : "Pays de Hanau"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
+  email            : "contact@bac-a-sable.eu"
+  flickr           : "piekes"
+  github           : "marathon67"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
@@ -113,8 +93,6 @@ include:
   - "_pages"
 
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - vendor
   - .asset-cache
   - .bundle
