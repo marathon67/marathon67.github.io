@@ -14,23 +14,23 @@ feature_row:
     alt: "Le Mini-Monde"
     title: "Le Mini-Monde"
     btn_label: "Aller au Mini-Monde"
-    btn_class: "btn--inverse"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_class: "btn--warning"
+    excerpt: "Un démonstrateur relativement évolué des possibilités de *Sugarcube*. Si vous le clonez, pensez à installer la v. 2.14 de *Sugarcube*."
     url: "/mini-monde/"
   - image_path: /assets/images/agneau_th.jpg
     alt: "Le Loup et l'Agneau"
     title: "Le Loup et l'Agneau"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "La fable bien connue revisitée au format *Harlowe*, avec effets sonores. Une façon simple de commencer avac Twine."
     url: "/agneau/"
     btn_label: "Entrer dans la fable"
-    btn_class: "btn--inverse"
+    btn_class: "btn--warning"
   - image_path: /assets/images/chaperon_th.jpg
     alt: "Le Petit Chaperon Rouge"
     title: "Le Petit Chaperon Rouge"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Un détournement de conte, au format *Harlowe*, réalisé au printemps 2016. Voyez le dictionnaire intégré."
     url: "/chaperon/"
     btn_label: "Vivre le conte"
-    btn_class: "btn--inverse"
+    btn_class: "btn--warning"
 ---
-|lkmlk d smqlkd mlsqkdsq mlksdmqslkdmqsdksqmdks mlskdmsqlkdsqmdksqdmqskdqs mlskdmsq kdsm msldiapodimdkmdsqkl qsdkqsmdksqmdsqlk mkldmqskdmqsdkqs dmqslkdqmsdkqsmdqskdmsqk msqkdsqmdksqmsqkmsqksq|sdkqsmdkqsmdkqsmdqskmsqk mskdsqmkmqsk sqmldkmqskdsqmkd zpedkqsdmsqlkd7554 jdlqskdjlqsjdsqldjsqdlsqkjdqsldjsqlsqkjdqs oduijldsqkjdlqskdjsqlkdjs lskjdlsqjdsqlkdjqsd lqskjdlqsjdsqljd qs|
+|Cette première série de récits interactifs sous *Twine* n'est pas constituée de véritables histoires. Il s'agit plutôt de démonstrateurs, de tutoriaux réalisés dans un but de formation.|Chacune est disponible avec les fichiers image et son nécessaires dans son dépôt *Github*. Vous pouvez les télécharger et les insérer dans votre *Twine* pour en *cannibaliser* les fonctionnalités.|
 {% include feature_row %}

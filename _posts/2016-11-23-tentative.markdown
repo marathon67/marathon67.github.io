@@ -33,5 +33,3 @@ La mise en place avec **Atom** semble fort bien fonctionner. Je lui trouve deux 
 * Et ensuite, comme il est porté par GitHub, nous avons avec Jekyll l'assurance de la cohérence
 
 Je vais donc de ce pas virer **Sublim Text** de l'ensemble de mes machines.
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}

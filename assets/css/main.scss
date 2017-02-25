@@ -78,14 +78,8 @@ $susy: (
 @import "sidebar";
 @import "print";
 
-
 /*
-   Own Customization
+   Own Customization - Pierre Kessler
    ========================================================================== */
 
-   .layout--splash h2 {
-       font-size: 1em;
-   }
-.layout--splash table,.layout--splash td, .layout--splash tr {
-  border: none;
-}
+@import "custom";

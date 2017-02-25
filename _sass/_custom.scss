@@ -1,0 +1,15 @@
+/*
+   Own Customization - Pierre Kessler
+   ========================================================================== */
+
+.layout--splash h2 {
+       font-size: 1em;
+}
+.layout--splash .archive__item-excerpt {
+       font-size: .7em;
+       line-height: 120%;
+ }
+.layout--splash table,.layout--splash td, .layout--splash tr {
+  border: none;
+  vertical-align: top;
+}
