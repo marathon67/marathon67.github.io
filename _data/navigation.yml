@@ -8,6 +8,8 @@ main:
     url: /categories/photo
   - title: "Twine"
     url: /categories/twine
+  - title: "Aventures"
+    url: /aventures
   - title: "À propos"
     url: /about
 
