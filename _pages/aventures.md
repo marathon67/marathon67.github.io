@@ -8,29 +8,27 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Crédit Photo : **Unsplash**"
-excerpt: "Dans la lignée des *Livres dont vous êtes le héros*, une série de récits interactifs réalisés avec **Twine**."
-intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+excerpt: "Dans la lignée des *Livres dont vous êtes le héros*, quelques récits interactifs réalisés avec **Twine**."
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/mini-monde_th.jpg
     alt: "Le Mini-Monde"
     title: "Le Mini-Monde"
     btn_label: "Aller au Mini-Monde"
     btn_class: "btn--inverse"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    url: "/mini-monde/"
+  - image_path: /assets/images/agneau_th.jpg
     alt: "Le Loup et l'Agneau"
     title: "Le Loup et l'Agneau"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/agneau/"
     btn_label: "Entrer dans la fable"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/chaperon_th.jpg
     alt: "Le Petit Chaperon Rouge"
     title: "Le Petit Chaperon Rouge"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/chaperon/"
     btn_label: "Vivre le conte"
     btn_class: "btn--inverse"
 ---
