@@ -14,13 +14,13 @@ header:
 *Bac-à-Sable*, c'est un petit site personnel, destiné à expérimenter sans risques (d'où son nom) et à faire partager quelques engouements pour des technologies numériques :
 
 * Les *livres dont vous êtes le héros*, réalisés en version numérique avec **Twine**
-* Les *photos augmentées*, des panoramiques au *focus stacking* en passant par la haute définition zoomable
+* Les *photos augmentées* (ou pas !), des panoramiques au *focus stacking* en passant par la haute définition zoomable
 * Mes découvertes en matière de publication web avec **Jekyll** sur **Github**
 
 Une envie de propager des techniques pas très compliquées mais connues surtout des utilisateurs les plus avancés. Et qu'il est dommage de ne pas utiliser au quotidien.
 
 ## Comment  ?
-Techniquement parlant, les quelques lignes ci-dessus vous ont déjà donnés quelques pistes :
+Techniquement parlant, les quelques lignes ci-dessus vous ont déjà donné quelques pistes :
 
 * Un site statique réalisé avec Jekyll
 * et hébergé gratuitement sur la plateforme **GitHub**.
