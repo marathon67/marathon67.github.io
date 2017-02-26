@@ -7,6 +7,9 @@ comments: true
 sidebar:
   nav: "docs"
 summary: "Je vous propose un petit questionnaire, destiné à faciliter une critique raisonnée et approfondie des photographies."
+tags:
+  - amateur
+  - critique photo
 ---
 
 {% include toc %}

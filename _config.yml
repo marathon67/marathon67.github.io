@@ -188,7 +188,7 @@ category_archive:
   type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
 
 # HTML Compression
@@ -212,6 +212,7 @@ defaults:
       share: false
       related: true
       sidebar: true
+
  # _pages
   - scope:
       path: ""
@@ -219,6 +220,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_image: /assets/images/unsplash-image-1.jpg
+        caption: "Crédit Photo : **Unsplash**"
 
 # _docs
   - scope:

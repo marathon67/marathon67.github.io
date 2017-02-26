@@ -6,6 +6,8 @@ categories: Jekyll
 summary: Un résumé des possibilités offertes par le langage de balisage Markdon dans les Github Pages et Jekyll.
 sidebar:
   nav: "docs"
+tags:
+  - confirmé
 ---
 
 ### Markdown test document

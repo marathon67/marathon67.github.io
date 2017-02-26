@@ -5,8 +5,9 @@ date: "2017-02-16 15:40:20 +0100"
 categories: Twine
 sidebar:
   nav: "docs"
-summary: Un démonstrateur Twine + Sugarcube, disponible sur Github. À cloner ou télécharger pour en cannibaliser toutes les fonctionnalités. Attention Javascript inside !
+summary: "Un démonstrateur Twine + Sugarcube, disponible sur Github. À cloner ou télécharger pour en cannibaliser toutes les fonctionnalités. Attention Javascript inside !"
 ---
+
 ## Bienvenue dans mon Mini-monde
 Je vous propose de visiter une *aventure dont vous êtes le héros*. Elle est, comme à mon habitude, réalisée avec [Twine](http://twinery.org). En soi, elle n'a guère d'intérêt. Sinon de me permettre de vous montrer quelques photos.  
 Son but réel est d'être téléchargée et démontée, *cannibalisée*, pour vous permettre de récupérer des éléments de design et de programmation que vous pourrez inclure dans vos propres histoires.  

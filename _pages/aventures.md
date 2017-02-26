@@ -3,12 +3,9 @@ title: "Aventures"
 layout: splash
 permalink: /aventures/
 date: 2017-02-22T11:48:41-04:00
+summary: "Dans la lignée des *Livres dont vous êtes le héros*, quelques récits interactifs réalisés avec **Twine**."
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Crédit Photo : **Unsplash**"
-excerpt: "Dans la lignée des *Livres dont vous êtes le héros*, quelques récits interactifs réalisés avec **Twine**."
+   overlay_filter: rgba(125, 0, 0, 0.5)
 feature_row:
   - image_path: assets/images/mini-monde_th.jpg
     alt: "Le Mini-Monde"
