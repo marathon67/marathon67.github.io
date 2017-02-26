@@ -10,8 +10,8 @@ locale                   : "fr"
 title                    : "Bac à Sable"
 title_separator          : "-"
 name                     : "Pierre Kessler"
-description              : "Mon terrain de jeux."
-url                      : "https://www.bac-a-sable.eu"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Mon terrain de jeux : *Twine*, *Jekyll* et *photos augmentées* ou pas."
+url                      : "https://www.bac-a-sable.eu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "marathon67/marathon67.github.io"
 #teaser                   : "/assets/images/bandeau.jpg"
@@ -142,7 +142,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -154,7 +153,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Paris
-
 
 # Plugins
 gems:
@@ -172,7 +170,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
