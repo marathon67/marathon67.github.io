@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/chaperon_th.jpg
     alt: "Le Petit Chaperon Rouge"
     title: "Le Petit Chaperon Rouge"
-    excerpt: "Un détournement de conte, au format *Harlowe*, réalisé au printemps 2016. Voyez le dictionnaire intégré."
+    excerpt: "Un détournement de conte, au format *Harlowe*, réalisé au printemps 2016. Voyez, entre autres, le dictionnaire intégré."
     url: "/chaperon/"
     btn_label: "Vivre le conte"
     btn_class: "btn--warning"
