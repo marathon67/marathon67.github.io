@@ -32,5 +32,5 @@ feature_row:
     btn_label: "Vivre le conte"
     btn_class: "btn--warning"
 ---
-|Cette première série de récits interactifs sous *Twine* n'est pas constituée de véritables histoires. Il s'agit plutôt de démonstrateurs, de tutoriaux réalisés dans un but de formation.|Chacune est disponible avec les fichiers image et son nécessaires dans son dépôt *Github*. Vous pouvez les télécharger et les insérer dans votre *Twine* pour en *cannibaliser* les fonctionnalités. Voyez les billets [Twine](/twine/) pour plus d'infos.|
+|Cette première série de récits interactifs sous *Twine* n'est pas constituée de véritables histoires. Il s'agit plutôt de démonstrateurs, de tutoriaux réalisés dans un but de formation.|Chacune est disponible avec les fichiers image et son nécessaires dans son dépôt *Github*. Vous pouvez les télécharger et les insérer dans votre *Twine* pour en *cannibaliser* les fonctionnalités. Voyez les billets [Twine](/categories/twine/) pour plus d'infos.|
 {% include feature_row %}
