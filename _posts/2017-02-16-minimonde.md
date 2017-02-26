@@ -24,6 +24,6 @@ Parmi les différents gadgets que vous allez retrouver dans le Mini-monde :
 Je n'ai évidemment pas créé la majorité des *snippets*, des bouts de code à recopier qui sont présents dans cette histoire. Ils doivent beaucoup aux nombreuses suggestions des animateurs du forum Twine.
 
 * Le Mini-monde en [version jouable](/mini-monde/)
-* et le [dépôt Github](https://github.com/marathon/mini-monde) pour en récupérer les fichiers
+* et le [dépôt Github](https://github.com/marathon67/mini-monde) pour en récupérer les fichiers
 
 Dans un premier temps, je vous laisse découvrir la chose. Je reviendrais dans mes prochains billets sur les différentes fonctionnalités énumérées *supra* et la façon de les intégrer dans vos propres réalisations.
