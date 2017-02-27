@@ -4,7 +4,7 @@ title: "Mini-monde"
 date: "2017-02-16 15:40:20 +0100"
 categories: Twine
 sidebar:
-  nav: "docs"
+  nav: "twinery"
 summary: "Un démonstrateur Twine + Sugarcube, disponible sur Github. À cloner ou télécharger pour en cannibaliser toutes les fonctionnalités. Attention Javascript inside !"
 ---
 

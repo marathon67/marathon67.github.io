@@ -5,7 +5,7 @@ date: '2016-11-23 10:13:24 +0100'
 categories: Jekyll
 summary: Une fois de plus, je me fais la main avec de nouveaux outils... Cet fois, Atom, l'éditeur de code de Github.
 sidebar:
-  nav: "docs"
+  nav: "jekyll"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
