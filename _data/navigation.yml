@@ -44,3 +44,99 @@ docs:
         url: "/agneau"
       - title: "Le petit chaperon rouge"
         url: "/chaperon"
+
+twinery:
+  - title: "Archives"
+    children:
+      - title: "Par Année"
+        url: /year/
+      - title: "Par Catégories"
+        url: /categories/
+      - title: "Par Mots-clés"
+        url: /tags/
+  - title: "Références"
+    children:
+      - title: "Twinery"
+        url: "https://twinery.org"
+      - title: "Forum Twine"
+        url: "http://twinery.org/forum/"        
+      - title: "Sugarcube 2"
+        url: "http://www.motoslave.net/sugarcube/2/"
+      - title: "Harlowe 2"
+        url: "https://twine2.neocities.org/2.html"
+      - title: "Twee2"
+        url: "https://dan-q.github.io/twee2/"        
+      - title: "Git"
+        url: "https://git-scm.com/"
+      - title: "Github"
+        url: "https://github.com/"
+      - title: "IFiction-fr"
+        url: "http://ifiction.free.fr/"
+  - title: "Aventures"
+    children:
+      - title: "Le mini-monde"
+        url: "/mini-monde/"
+      - title: "Le loup et l'agneau"
+        url: "/agneau"
+      - title: "Le petit chaperon rouge"
+        url: "/chaperon"  
+jekyll:
+  - title: "Archives"
+    children:
+      - title: "Par Année"
+        url: /year/
+      - title: "Par Catégories"
+        url: /categories/
+      - title: "Par Mots-clés"
+        url: /tags/
+  - title: "Références"
+    children:
+      - title: "Jekyll"
+        url: "https://jekyllrb.com/"
+      - title: "Jekyll Tips"
+        url: "http://jekyll.tips/"
+      - title: "Jekyll Themes"
+        url: "http://themes.jekyllrc.org/"
+      - title: "Jamstatic"
+        url: "https://jamstatic.fr/"
+      - title: "Sass Guidelines"  
+        url: "https://sass-guidelin.es/fr/"
+      - title: "Atom"
+        url: "https://atom.io/"
+      - title: "Git"
+        url: "https://git-scm.com/"
+      - title: "Github"
+        url: "https://github.com/"
+      - title: "Linux Mint"
+        url: "https://www.linuxmint.com/"
+pictures:
+    - title: "Archives"
+      children:
+        - title: "Par Année"
+          url: /year/
+        - title: "Par Catégories"
+          url: /categories/
+        - title: "Par Mots-clés"
+          url: /tags/
+    - title: "Références"
+      children:
+        - title: "OpenSeaDragon"
+          url: "https://openseadragon.github.io/"
+        - title: "Zerene Stacker"
+          url: "http://zerenesystems.com/cms/stacker"
+        - title: "Hugin"
+          url: "http://hugin.sourceforge.net/"
+        - title: "Picolay"  
+          url: "http://www.picolay.de/"
+        - title: "Extreme Macro"
+          url: "http://extreme-macro.co.uk/"
+        - title: "Arthropods - field stacks"
+          url: "https://www.flickr.com/groups/insects-field-stacks/pool/"
+        - title: "Arthropods - studio stacks"
+          url: "https://www.flickr.com/groups/insects-studio-stacks/pool/"
+        - title: "John Hallmèn"
+          url: "https://www.flickr.com/photos/johnhallmen/"
+        - title: "Splendour Awaits"
+          url: "http://bugs.adrianthysse.com/"
+        - title: "Le monde minuscule"
+          url: "http://lemondeminuscule.com/"
