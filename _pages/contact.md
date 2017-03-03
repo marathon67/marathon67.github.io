@@ -12,7 +12,7 @@ header:
 ## Un mot à nous dire ?
 Utilisez le formulaire ci-dessous pour prendre contact avec notre équipe. 
 
-<form method="POST" action="http://formspree.io/contact@bac-a-sable.eu">
+<form method="POST" action="https://formspree.io/contact@bac-a-sable.eu">
 <input type="hidden" name="_format" value="plain" />
 <input type="hidden" name="_next" value="https://bac-a-sable.eu/contact" />
 <input type="hidden" name="_cc" value="pierre.kessler@gmail.com" />
