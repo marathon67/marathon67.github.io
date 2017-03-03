@@ -9,4 +9,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   #gem "jekyll-github-metadata"
+  gem 'jekyll-compose'
+
 end

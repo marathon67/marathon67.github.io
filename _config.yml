@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pierre KESSLER"
+  name             : "Pierre Kessler"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Éternel apprenti... depuis l'époque de la disquette en pierre polie."
+  bio              : "Terrain de jeu d'un éternel apprenti... depuis l'époque de la disquette en pierre polie."
   location         : "Pays de Hanau"
-  email            : "contact@bac-a-sable.eu"
+  email            : 
   flickr           : "piekes"
   github           : "marathon67"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
@@ -203,7 +203,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: false
