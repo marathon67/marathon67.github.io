@@ -14,7 +14,7 @@ Utilisez le formulaire ci-dessous pour prendre contact avec notre équipe.
 
 <form method="POST" action="https://formspree.io/contact@bac-a-sable.eu">
 <input type="hidden" name="_format" value="plain" />
-<input type="hidden" name="_next" value="https://bac-a-sable.eu/contact" />
+<input type="hidden" name="_next" value="https://www.bac-a-sable.eu/contact" />
 <input type="hidden" name="_cc" value="pierre.kessler@gmail.com" />
 <input type="hidden" name="_subject" value="Nouvel envoi depuis le blog" />
 <input type="text" name="_gotcha" style="display:none" />
