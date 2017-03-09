@@ -25,19 +25,105 @@ Il existe une interface graphique à *VIPS*, baptisée *NIPS2*. Je la trouve inu
 
 * Téléchargez l'archive disponible en première page du site.
 * Créez un dossier de travail sur votre ordinateur. Appelez-le `zoom` pour simplifier.
-* Décompactez-y votre archive
+* Décompactez-y votre archive.
 
 ## Découpons l'image
 Je suppose pour ce billet que vous disposez déjà d'une image en grand format. Que ce soit le *scan* d'une page de registres paroissiaux, un grand panorama[^1] que vous avez réalisé vous même, un tableau mis en ligne par un musée[^2] ou une photo issue d'une agence spatiale[^3].
-Dans de nombreux cas, l'image *telle quelle* produite par un appareil photo d'une bonne définition sera suffisante. Je la nomme ici `grande-image.jpg`.
+Dans de nombreux cas, l'image *telle quelle* produite par un appareil photo d'une bonne définition sera suffisante. Pour notre démonstration, j'ai choisi une photo de la [Nébuleuse d'Orion](http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/29604/ps16_16x20.jpg) (3,29 Mo) disponible sur le site du télescope spatial. Je la renomme `orion.jpg`.
+
+Procédons au découpage proprement dit :
+
+* ouvrez un terminal de commande 
+* entrez-y la ligne suivante : `vips dzsave orion orion`
+
+![VIPS](/assets/images/vips01.jpg)
+
+La capture ci-dessus vous montre à la fois le terminal et le résultat produit dans l'explorateur de fichiers : 
+
+* `orion.dzi` est un fichier de métadonnées permettant l'affichage de votre image
+* `orion_files` est un dossier renfermant tous les carrés de l'image découpée
+* les 13 sous-dossiers, contiennent des carrés d'image, regroupés par niveau de zoom
+
+Pour compléter, je crée dans *The Gimp* une vignette en 256x256 pixels, que je nomme `orion_th.jpg`[^4].
 
 ### Un espace de travail
-Comme pour tout processus de création informatique, il est primordial de ranger ses fichiers selon une arborescence bien réfléchie.
+![VIPS](/assets/images/vips02.jpg){: .align-left}
+Pour tout processus de création informatique, il est primordial de ranger ses fichiers selon une arborescence réfléchie.  
+
+
+Pour en obtenir une semblable à la mienne : 
 
 * Allez dans votre dossier `zoom`
-* Créez des sous-dossiers et organisez vos fichiers pour obtenir l'arborescence ci-contre.
+* Créez un sous-dossier `scripts` et un sous-dossier `giga`
+* Dans giga, copiez le fichier `openseadragon.min.js` et le dossier `images` tirés de l'archive d'*OpenSeadragon*.
+* Déplacez dans giga le fichier `orion.dzi` et le dossier `orion_files`
+ 
+## La page Web
+
+Pour afficher notre nébuleuse, il ne nous manque plus une page HTML à visiter avec notre navigateur.
+
+* Créez dans votre dossier zoom un nouveau fichier `index.html`
+* Ouvrez-le dans votre éditeur de code favori[^5]
+* Copiez-y le code ci-dessous
+* Enregistrez
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>OpenSeadragon</title>
+  <link rel='stylesheet' type='text/css' media='screen' href='zoom.css'/>
+</head>
+<body>
+    <div id="zoomDiv" class="openseadragon front-page"></div>
+        <script src="scripts/openseadragon.min.js"></script>
+        <script type="text/javascript">
+        OpenSeadragon({
+        id:              "zoomDiv",
+        prefixUrl:       "scripts/images/",
+        tileSources:     "giga/orion.dzi"
+        });
+        </script>
+    </div>
+</body>
+</html>
+```
+
+### Une pincée de css
+
+Pour rendre les choses un peu plus élégantes, rajoutons une feuille de style.
+
+* Créez dans votre dossier zoom un nouveau fichier `zoom.css`
+* Ouvrez-le dans votre éditeur de code favori
+* Copiez-y le code ci-dessous
+* Enregistrez
+
+```
+body {
+   margin:     0;
+   color:          #333;
+   background-color: #121621;/*#0e182e;*/
+}
+
+.openseadragon
+{
+   width:      800px;
+   height:     600px;
+   border:     1px solid black;
+   color:      #333; /* text color for messages */
+   background-color: black;
+}
+```
+## Et voilà !
+Il vous reste maintenant à ouvrir `index.html` dans votre navigateur et vérifier que tout fonctionne. Voyez mon [exemple](https://www.bac-a-sable.eu/gigapics/) sur Github.  
+Évidemment il vous faudrait encore enrichir la feuille de style pour adapter le *look* d'*OpenSeadragon* à celui de votre site.  
+Je vous montre dans un tout prochain billet ce que cela donne intégré dans mon site *Jeckyll*.
+
 
 ---
 [^1]: Nous verrons dans un prochain billet la *fabrication* de telles images.
 [^2]: Parcourez par exemple les collections du [Metropolitan Museum of Art](http://www.metmuseum.org/art/collection) de New-York.
-[^3]: Allez faire votre *marché* sur le site du téléscope spatial [Hubble](http://hubblesite.org/images/wallpaper).  
+[^3]: Allez faire votre *marché* sur le site du téléscope spatial [Hubble](http://hubblesite.org/images/wallpaper). 
+[^4]: `_th` comme *thumbnail*, miniature en anglais.
+[^5]: En ce qui me concerne, et depuis un bout de temps, c'est [Atom](https://atom.io/).
