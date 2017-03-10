@@ -91,6 +91,7 @@ author:
 include:
   - .htaccess
   - "_pages"
+  - "_gigapics"
 
 exclude:
   - vendor
@@ -161,6 +162,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  #  - algoliasearch-jekyll
   #- jekyll-github-metadata
 
 # mimic GitHub Pages with --safe
@@ -187,6 +189,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Collections
+collections:
+  gigapics:
+    output: true
+permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -228,3 +236,11 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+
+# _gigapics        
+defaults:
+  - scope:
+      path: ""
+      type: gigapics
+    values:
+      layout: gigapics        
