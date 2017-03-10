@@ -12,7 +12,7 @@ Je vous propose aujourd'hui, toujours avec des outils libres et gratuits, d'affi
 
 ## Les outils
 ### VIPS
-[VIPS](http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS) est un logiciel de traitement graphique en ligne de commande, extrêmement puissant. Nous ne ferons ici qu'en effleurer les possibilités. VIPS nous servira à découper l'image d'origine en un grand nombre de carreaux permettant des opérations de *zooming* et un affichage fluide.
+[VIPS](http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS) est un logiciel de traitement graphique en ligne de commande, extrêmement puissant. Nous ne ferons ici qu'en effleurer les possibilités. *VIPS* nous servira à découper l'image d'origine en un grand nombre de carreaux permettant des opérations de *zooming* et un affichage fluide.
 
 * Si votre machine tourne sous *Linux*, *VIPS* fait à priori partie de votre distribution. Tapez `$ vips -v` dans un terminal pour le vérifier. Sinon, installez le package *VIPS* par la méthode habituelle.
 
@@ -34,7 +34,7 @@ Dans de nombreux cas, l'image *telle quelle* produite par un appareil photo d'un
 Procédons au découpage proprement dit :
 
 * ouvrez un terminal de commande 
-* entrez-y la ligne suivante : `vips dzsave orion orion`
+* entrez-y la ligne suivante : `vips dzsave orion.jpg orion`
 
 ![VIPS](/assets/images/vips01.jpg)
 
