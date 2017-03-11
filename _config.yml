@@ -192,7 +192,7 @@ tag_archive:
 
 # Collections
 collections:
-  gigapics:
+  big-pics:
     output: true
 permalink: /:collection/:path/
 
@@ -237,10 +237,10 @@ defaults:
       sidebar:
         nav: "docs"
 
-# _gigapics        
-defaults:
+# _big-pics        
   - scope:
       path: ""
-      type: gigapics
+      type: big-pics
     values:
-      layout: gigapics        
+      layout: gigapics    
+    
