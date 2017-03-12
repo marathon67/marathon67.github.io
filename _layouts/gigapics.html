@@ -33,8 +33,11 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
-          {% include zoom.html %}
+      <section class="page__content" itemprop="text">  
+          {% include zoom.html %}  
+          
+      <p>{{page.credit}}</p>
+                    
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
