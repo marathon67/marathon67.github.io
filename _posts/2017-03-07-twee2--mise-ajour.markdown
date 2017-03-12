@@ -19,7 +19,7 @@ Du coup, j'en reviens à [Twee2](https://dan-q.github.io/twee2/). En gros, il s'
 
 Pour peu que *Ruby* soit installé sur votre machine, rien de plus simple que d'installer *Twee2* :
 ~~~~~
-$ gem install twee2 
+$ gem install twee2
 ~~~~~
 Remarquez que je n'ai pas utilisé `sudo`. Car installer des *gems* au niveau du système peut poser de sérieux problèmes de sécurité. Je reviendrais sur l'installation de *Ruby* dans un billet ultérieur.
 
@@ -56,13 +56,14 @@ Le premier fichier, `format.js` est simplement la dernière version de *Sugarcub
 
 Sur le [dépôt Github](https://github.com/Dan-Q/twee2) de *Twee2*, un utilisateur, **MCDemarco** a posté une modification du logiciel permettant de faire accepter les noms de passage spéciaux comme *StoryMenu*. Malheureusement, **Dan-Q**, ne l'a pas prise en compte pour l'instant. Nous allons le faire nous-mêmes, *à la main*.
 
-* Affichez le code du fichier [story_file.rb](https://raw.githubusercontent.com/mcdemarco/twee2/40d3b983733ebd66aae7dd59f0a81785ae988b79/lib/twee2/story_file.rb) modifié
-* Copiez-en le contenu
+* Copiez le contenu du fichier ci-dessous (après avoir cliqué sur **view raw**)
 * Ouvrez le fichier `story_file.rb` présent sur votre ordinateur
-* Collez-y le code récupéré en ligne. Enregistrez. Et voilà...
+* Remplacez-y le code d'origine par celui que vous venez de copier. Enregistrez. Et voilà...
 
-## Si, ça marche !
-Et pour vous montrez que tout ça fonctionne de façon satisfaisante, j'ai mis sur *Github* un dépôt contenant la version à la sauce *Twee2* de mon démonstrateur [Le mini-monde](https://github.com/marathon67/m_monde-twee2). Vous y trouverez aussi `story_file.rb` dans le dossier *Twee2*, au cas où...
+<script src="https://gist.github.com/marathon67/004c5e88cadc7a8cb2e51a18a6a59f84.js"></script>
+
+## Si ! Ça marche
+Et pour vous montrez que tout ça fonctionne de façon satisfaisante, j'ai mis sur *Github* un dépôt contenant la version à la sauce *Twee2* de mon démonstrateur [Le mini-monde](https://github.com/marathon67/m_monde-twee2).
 
 Mes excuses enfin aux lecteurs pour lesquels une bonne partie de cet article n'était que charabia indigeste. J'écris mes billets suivant deux rythmes, deux planifications différentes.  
  Il y a d'abord ceux d'actualité : une manip' que je viens de mener, une découverte du moment que j'ai envie de partager.  
