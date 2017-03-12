@@ -59,6 +59,7 @@ Sur le [dépôt Github](https://github.com/Dan-Q/twee2) de *Twee2*, un utilisate
 * Copiez le contenu du fichier ci-dessous (après avoir cliqué sur **view raw**)
 * Ouvrez le fichier `story_file.rb` présent sur votre ordinateur
 * Remplacez-y le code d'origine par celui que vous venez de copier. Enregistrez. Et voilà...
+* Vous pouvez également télécharger ce fichier sous forme d'archive en cliquant sur *story_file.rb* en bas du cadre de code.
 
 <script src="https://gist.github.com/marathon67/004c5e88cadc7a8cb2e51a18a6a59f84.js"></script>
 
