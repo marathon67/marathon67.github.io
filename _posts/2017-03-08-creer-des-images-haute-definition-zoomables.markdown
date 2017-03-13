@@ -66,6 +66,7 @@ Pour afficher notre nébuleuse, il ne nous manque plus une page HTML à visiter 
 * Ouvrez-le dans votre éditeur de code favori[^5]
 * Copiez-y le code ci-dessous (après avoir cliqué sur *View Raw*)
 * Enregistrez
+* Vous pouvez également télécharger ce fichier sous forme d'archive en cliquant sur *story_file.rb* en bas du cadre de code.
 
 <script src="https://gist.github.com/marathon67/89c75a0a3ac52656b89b3f05424b3b3e.js"></script>
 

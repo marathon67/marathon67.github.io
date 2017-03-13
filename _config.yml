@@ -81,7 +81,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Terrain de jeu d'un éternel apprenti... depuis l'époque de la disquette en pierre polie."
   location         : "Pays de Hanau"
-  email            : 
+  email            :
   flickr           : "piekes"
   github           : "marathon67"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
@@ -90,8 +90,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - "_pages"
-  - "_gigapics"
+  - _pages
+  - _gigapixels
 
 exclude:
   - vendor
@@ -114,15 +114,11 @@ exclude:
   - package.json
   - Rakefile
   - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 
 # Conversion
 markdown: kramdown
@@ -130,7 +126,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -148,7 +143,6 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -162,6 +156,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
   #  - algoliasearch-jekyll
   #- jekyll-github-metadata
 
@@ -172,7 +167,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -192,9 +187,20 @@ tag_archive:
 
 # Collections
 collections:
-  big-pics:
+  b-macros:
     output: true
-permalink: /:collection/:path/
+    permalink: /:collection/:path/
+    long_name: "Macrophotographies"
+    
+  b-archi:
+    output: true
+    permalink: /:collection/:path/
+    long_name: "Architecture"
+  
+  b-panos:
+    output: true
+    permalink: /:collection/:path/
+    long_name: "Paysages et panoramas"
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -237,10 +243,22 @@ defaults:
       sidebar:
         nav: "docs"
 
-# _big-pics        
+# _b-macros
   - scope:
       path: ""
-      type: big-pics
+      type: b-macros
     values:
-      layout: gigapics    
-    
+      layout: single
+# _b-archi
+  - scope:
+      path: ""
+      type: b-archi
+    values:
+      layout: single      
+# _b-panos
+  - scope:
+      path: ""
+      type: b-panos
+    values:
+      layout: single
+  

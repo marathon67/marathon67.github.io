@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Posts by Collection"
+title: "Mégapixels"
 permalink: /collection-archive/
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "giga"
+summary: "Explorez des images haute définition zoomables."
+header:
+  overlay_filter: rgba(0, 70, 0, 0.5)
 ---
 
 {% include base_path %}
@@ -12,7 +15,7 @@ sidebar:
 
 {% for collection in site.collections %}
   {% unless collection.output == false or collection.label == "posts" %}
-    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% capture label %}{{ collection.long_name }}{% endcapture %}
     {% if label != written_label %}
       <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
       {% capture written_label %}{{ label }}{% endcapture %}

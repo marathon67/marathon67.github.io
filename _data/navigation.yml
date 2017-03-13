@@ -6,6 +6,8 @@ main:
     url: /categories/jekyll
   - title: "Photo"
     url: /categories/photo
+  - title: "Mégapixels"  
+    url: "/collection-archive/"
   - title: "Twine"
     url: /categories/twine
   - title: "Aventures"
@@ -59,13 +61,13 @@ twinery:
       - title: "Twinery"
         url: "https://twinery.org"
       - title: "Forum Twine"
-        url: "http://twinery.org/forum/"        
+        url: "http://twinery.org/forum/"
       - title: "Sugarcube 2"
         url: "http://www.motoslave.net/sugarcube/2/"
       - title: "Harlowe 2"
         url: "https://twine2.neocities.org/2.html"
       - title: "Twee2"
-        url: "https://dan-q.github.io/twee2/"        
+        url: "https://dan-q.github.io/twee2/"
       - title: "Git"
         url: "https://git-scm.com/"
       - title: "Github"
@@ -79,7 +81,7 @@ twinery:
       - title: "Le loup et l'agneau"
         url: "/agneau"
       - title: "Le petit chaperon rouge"
-        url: "/chaperon"  
+        url: "/chaperon"
 jekyll:
   - title: "Archives"
     children:
@@ -99,7 +101,7 @@ jekyll:
         url: "http://themes.jekyllrc.org/"
       - title: "Jamstatic"
         url: "https://jamstatic.fr/"
-      - title: "Sass Guidelines"  
+      - title: "Sass Guidelines"
         url: "https://sass-guidelin.es/fr/"
       - title: "Atom"
         url: "https://atom.io/"
@@ -126,7 +128,7 @@ pictures:
           url: "http://zerenesystems.com/cms/stacker"
         - title: "Hugin"
           url: "http://hugin.sourceforge.net/"
-        - title: "Picolay"  
+        - title: "Picolay"
           url: "http://www.picolay.de/"
         - title: "Extreme Macro"
           url: "http://extreme-macro.co.uk/"
@@ -140,3 +142,18 @@ pictures:
           url: "http://bugs.adrianthysse.com/"
         - title: "Le monde minuscule"
           url: "http://lemondeminuscule.com/"
+giga:
+    - title: "Archives"
+      children:
+        - title: "Par Année"
+          url: /year/
+        - title: "Par Catégories"
+          url: /categories/
+        - title: "Par Mots-clés"
+          url: /tags/
+    - title: "Références"
+      children:
+        - title: "OpenSeaDragon"
+          url: "https://openseadragon.github.io/"
+        - title: "Hugin"
+          url: "http://hugin.sourceforge.net/"
