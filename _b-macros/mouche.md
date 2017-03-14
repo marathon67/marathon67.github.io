@@ -7,6 +7,8 @@ thumb: "mouche_th.jpg"
 summary: Voyez dans les moindres détails une mouche bien ordinaire. Remarquez particulièrement les yeux rouges à facettes.
 sidebar:
   nav: "giga"
+header:
+  overlay_color: rgba(0, 70, 0, 0.5) 
 
 ---
 

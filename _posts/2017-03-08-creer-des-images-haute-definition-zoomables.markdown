@@ -6,8 +6,10 @@ categories: Photo
 summary: Étape "traitement de l'image en grand format" dans le processus de création de photos *Gigapixels* consultables en ligne.
 sidebar:
   nav: "pictures"
+header:
+      overlay_color: rgba(0, 70, 0, 0.5) # photo : rgba(0, 70, 0, 0.5), twine : rgba(75, 75, 0, 0.5), jekyll : rgba(0, 20, 120, 0.5), divers : rgba(0, 0, 70, 0.5)
 ---
-{% include toc %}  
+{% include toc %}
 Je vous propose aujourd'hui, toujours avec des outils libres et gratuits, d'afficher des images en haute définition sur votre site web. Vous pourrez en exploiter tous les détails en vous y déplaçant et en zoomant à volonté. Voyez ici un exemple de réalisation en ligne sur ce site.
 
 ## Les outils
@@ -21,7 +23,7 @@ Je vous propose aujourd'hui, toujours avec des outils libres et gratuits, d'affi
 Il existe une interface graphique à *VIPS*, baptisée *NIPS2*. Je la trouve inutilement lourde et compliquée pour l'utilisation très simple que nous allons faire.
 
 ### OpenSeadragon
-[OpenSeadragon](https://openseadragon.github.io/) (*l'hippocampe libre*) est un visualisateur d'images zoomables en haute définition. Il est *open source* et réalisé entièrement en Javascript. *OpenSeadragon* fonctionne aussi bien en local, sur votre clé USB par exemple, qu'en ligne sur un serveur distant. Comme il va être contenu dans une simple page web, vous pourrez l'utiliser à volonté sous *Linux*, *Windows* ou *Mac*.  
+[OpenSeadragon](https://openseadragon.github.io/) (*l'hippocampe libre*) est un visualisateur d'images zoomables en haute définition. Il est *open source* et réalisé entièrement en Javascript. *OpenSeadragon* fonctionne aussi bien en local, sur votre clé USB par exemple, qu'en ligne sur un serveur distant. Comme il va être contenu dans une simple page web, vous pourrez l'utiliser à volonté sous *Linux*, *Windows* ou *Mac*.
 
 * Téléchargez l'archive disponible en première page du site.
 * Créez un dossier de travail sur votre ordinateur. Appelez-le `zoom` pour simplifier.
@@ -48,7 +50,7 @@ Pour compléter, je crée dans *The Gimp* une vignette en 256x256 pixels, que je
 
 ### Un espace de travail
 ![VIPS](/assets/images/vips02.jpg){: .align-left}
-Pour tout processus de création informatique, il est primordial de ranger ses fichiers selon une arborescence réfléchie.  
+Pour tout processus de création informatique, il est primordial de ranger ses fichiers selon une arborescence réfléchie.
 
 
 Pour en obtenir une semblable à la mienne :
@@ -83,8 +85,8 @@ Pour rendre les choses un peu plus élégantes, rajoutons une feuille de style.
 <script src="https://gist.github.com/marathon67/9455c7f7702dae203394dc4d607f5520.js"></script>
 
 ## Et voilà !
-Il vous reste maintenant à ouvrir `index.html` dans votre navigateur et vérifier que tout fonctionne. Voyez mon [exemple](https://www.bac-a-sable.eu/gigapics/) sur Github.  
-Évidemment il vous faudrait encore enrichir la feuille de style pour adapter le *look* d'*OpenSeadragon* à celui de votre site.  
+Il vous reste maintenant à ouvrir `index.html` dans votre navigateur et vérifier que tout fonctionne. Voyez mon [exemple](https://www.bac-a-sable.eu/gigapics/) sur Github.
+Évidemment il vous faudrait encore enrichir la feuille de style pour adapter le *look* d'*OpenSeadragon* à celui de votre site.
 Je vous montre dans un tout prochain billet ce que cela donne intégré dans mon site *Jeckyll*.
 
 

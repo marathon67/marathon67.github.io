@@ -6,11 +6,13 @@ categories: Twine
 sidebar:
   nav: "twinery"
 summary: "Un démonstrateur Twine + Sugarcube, disponible sur Github. À cloner ou télécharger pour en cannibaliser toutes les fonctionnalités. Attention Javascript inside !"
+header:
+    overlay_color: rgba(75, 75, 0, 0.5) # photo : rgba(0, 70, 0, 0.5), twine : rgba(75, 75, 0, 0.5), jekyll : rgba(0, 20, 120, 0.5), divers : rgba(0, 0, 70, 0.5)
 ---
 
 ## Bienvenue dans mon Mini-monde
-Je vous propose de visiter une *aventure dont vous êtes le héros*. Elle est, comme à mon habitude, réalisée avec [Twine](http://twinery.org). En soi, elle n'a guère d'intérêt. Sinon de me permettre de vous montrer quelques photos.  
-Son but réel est d'être téléchargée et démontée, *cannibalisée*, pour vous permettre de récupérer des éléments de design et de programmation que vous pourrez inclure dans vos propres histoires.  
+Je vous propose de visiter une *aventure dont vous êtes le héros*. Elle est, comme à mon habitude, réalisée avec [Twine](http://twinery.org). En soi, elle n'a guère d'intérêt. Sinon de me permettre de vous montrer quelques photos.
+Son but réel est d'être téléchargée et démontée, *cannibalisée*, pour vous permettre de récupérer des éléments de design et de programmation que vous pourrez inclure dans vos propres histoires.
 Le format d'histoire utilisé ici est la toute dernière version de **Sugarcube**, la 2.13.0, publiée hier. Ce n'est pas le format le plus simple : aux utilisateurs qui ne connaissent pas grand'chose au codage, je recommande plutôt **Harlowe**.
 
 Parmi les différents gadgets que vous allez retrouver dans le Mini-monde :

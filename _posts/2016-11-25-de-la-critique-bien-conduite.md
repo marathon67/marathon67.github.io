@@ -10,6 +10,8 @@ summary: "Je vous propose un petit questionnaire, destiné à faciliter une crit
 tags:
   - amateur
   - critique photo
+header:
+  overlay_color: rgba(0, 70, 0, 0.5) # photo : rgba(0, 70, 0, 0.5), twine : rgba(75, 75, 0, 0.5), jekyll : rgba(0, 20, 120, 0.5), divers : rgba(0, 0, 70, 0.5)
 ---
 
 {% include toc %}

@@ -6,6 +6,8 @@ categories: Twine
 summary: Twee2 est un outil bien sympathique, mais plus mis à jour depuis quelques mois. Voyons comment y remédier.
 sidebar:
   nav: "twinery"
+header:
+  overlay_color: rgba(75, 75, 0, 0.5) # photo : rgba(0, 70, 0, 0.5), twine : rgba(75, 75, 0, 0.5), jekyll : rgba(0, 20, 120, 0.5), divers : rgba(0, 0, 70, 0.5)
 ---
 Je me suis quelque peu énervé avec les dernières versions de *Twine*, les 2.1 et 2.1.1. Impossible de les faire tourner convenablement sur l'un quelconque de mes ordinateurs, que ce soit à la maison ou au bureau. Sous Linux ou Windows. Je me suis même laissé aller à un commentaire peu amène sur le forum...
 
@@ -34,18 +36,18 @@ Pour réaliser cette mise à jour, il faut d'abord localiser où est installé *
 ~~~
 $ gem env
 ~~~
-Vous obtiendrez un écran qui va ressembler à ceci :   
+Vous obtiendrez un écran qui va ressembler à ceci :
 
 
-![Gem : où est installé Twee2 ?](/assets/images/twee2.jpg)  
+![Gem : où est installé Twee2 ?](/assets/images/twee2.jpg)
 
 *Twee2* se trouve dans l'un des dossiers intitulés **INSTALLATION DIRECTORY** ou **USER INSTALLATION DITECTORY**. Ouvrez les l'un après l'autre jusqu'à repérer notre *gem Twee2*.
 
 ![Twee2 : mon dossier d'installation](/assets/images/twee2a.jpg){: .align-left}
-Deux fichiers sont ici à remplacer `format.js` et `story_file.rb`.  
+Deux fichiers sont ici à remplacer `format.js` et `story_file.rb`.
 
 ### Mettre à jour Sugarcube
-Le premier fichier, `format.js` est simplement la dernière version de *Sugarcube2*. Pour mettre à jour :  
+Le premier fichier, `format.js` est simplement la dernière version de *Sugarcube2*. Pour mettre à jour :
 
 * Allez sur le site de [Sugarcube](http://www.motoslave.net/sugarcube/2/)
 * Dans la section **Downloads**, récupérez l'archive de la dernière version pour *Twine 2.0*. Au 7/03/17, c'est la [V2.14](http://www.motoslave.net/sugarcube/download.php/2/sugarcube-2.14.0-for-twine-2.0-local.zip).
@@ -66,6 +68,6 @@ Sur le [dépôt Github](https://github.com/Dan-Q/twee2) de *Twee2*, un utilisate
 ## Si ! Ça marche
 Et pour vous montrez que tout ça fonctionne de façon satisfaisante, j'ai mis sur *Github* un dépôt contenant la version à la sauce *Twee2* de mon démonstrateur [Le mini-monde](https://github.com/marathon67/m_monde-twee2).
 
-Mes excuses enfin aux lecteurs pour lesquels une bonne partie de cet article n'était que charabia indigeste. J'écris mes billets suivant deux rythmes, deux planifications différentes.  
- Il y a d'abord ceux d'actualité : une manip' que je viens de mener, une découverte du moment que j'ai envie de partager.  
+Mes excuses enfin aux lecteurs pour lesquels une bonne partie de cet article n'était que charabia indigeste. J'écris mes billets suivant deux rythmes, deux planifications différentes.
+ Il y a d'abord ceux d'actualité : une manip' que je viens de mener, une découverte du moment que j'ai envie de partager.
  Il y a (aura) aussi des billets à la parution plus *raisonnée*, plus pédagogique, prenant les choses par leur commencement. Je reviendrais donc dans cette série là sur l'installation de *Ruby* ou le choix des formats d'histoire pour *Twine*.

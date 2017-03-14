@@ -7,6 +7,9 @@ thumb: "tympan_th.jpg"
 summary: "Zoomez et découvrez les détails de la Passion. Vous pouvez aussi chercher les hémorroïdes du diable..."
 sidebar:
   nav: "giga"
+header:
+      overlay_color: rgba(0, 70, 0, 0.5)
+
 
 ---
 

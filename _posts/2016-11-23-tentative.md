@@ -23,6 +23,8 @@ gallery:
     image_path: /assets/images/unsplash-gallery-image-4-th.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+header:
+  overlay_color: rgba(0, 20, 120, 0.5) # photo : rgba(0, 70, 0, 0.5), twine : rgba(75, 75, 0, 0.5), jekyll : rgba(0, 20, 120, 0.5), divers : rgba(0, 0, 70, 0.5)
 ---
 
 ### Le titre publié dans le billet sera en H2, voire en H3

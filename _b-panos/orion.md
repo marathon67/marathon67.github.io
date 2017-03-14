@@ -7,6 +7,8 @@ thumb: "orion_th.jpg"
 summary: La nébuleuse d'Orion est si brillante que, dans de bonnes conditions, elle est parfois visible à l'œil nu.
 sidebar:
   nav: "giga"
+header:
+  overlay_color: rgba(0, 70, 0, 0.5) 
 
 ---
 
