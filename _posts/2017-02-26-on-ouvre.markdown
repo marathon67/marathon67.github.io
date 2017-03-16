@@ -11,7 +11,7 @@ header:
 ---
 
 ## Bonjour à toutes et à tous
-Ça y est. Le nouveau site *Bac à sable* n'est plus en chantier. J'ai réussi à y implémenter l'ensemble des focntionnalités dont j'avais envie.
+Ça y est. Le nouveau site *Bac à sable* n'est plus totalement en chantier. J'ai réussi à y implémenter l'ensemble des focntionnalités dont j'avais envie.
 À première vue, tout fonctionne de façon satisfaisante.
 Le thème *Minimal Mistakes* pour **Jekyll**, après quelques travaux de "customisation" me donne satisfaction. Je suis encore loin de maîtriser *Sass*, mais je devrais y arriver assez rapidement, car l'outil donne une grande souplesse aux feuilles de style.
 
@@ -21,4 +21,4 @@ Pour fournir un accès en **https** à toutes les pages, un détour par *Cloudfl
 
 Si tout ceci est encore pour vous *du chinois*, je détaillerai dans les billets à venir l'ensemble des techniques employées. Ce n'est pas trop compliqué : si j'y suis arrivé, vous en êtes sûrement capable. Attendu que j'ai plus du *noob* que du *geek*. (:
 
-Merci en tout cas à tous ceux et celles qui passeront par ici. N"hésitez pas à user des commentaires pour me faire part de votre ressenti ou me signaler des bricoles qui demandent à être améliorées. Et à demain pour le prochain billet...
+Merci en tout cas à tous ceux et celles qui passeront par ici. N"hésitez pas à user des commentaires pour me faire part de votre ressenti ou me signaler des bricoles qui demandent à être améliorées. Et à bientôt pour le prochain billet...
