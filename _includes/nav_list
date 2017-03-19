@@ -11,11 +11,13 @@
           {% comment %} internal/external URL check {% endcomment %}
           {% if nav.url contains "://" %}
             {% assign domain = "" %}
+            {% assign target = '_blank' %}
           {% else %}
             {% assign domain = site.url | append: site.baseurl %}
+            {% assign target = '_self' %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <a href="{{ domain }}{{ nav.url }}"  target="{{ target }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
@@ -26,8 +28,10 @@
             {% comment %} internal/external URL check {% endcomment %}
             {% if child.url contains "://" %}
               {% assign domain = "" %}
+              {% assign target = '_blank' %}
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
+              {% assign target = '_self' %}
             {% endif %}
 
             {% comment %} set "active" class on current page {% endcomment %}
@@ -37,7 +41,7 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <li><a href="{{ domain }}{{ child.url }}" target="{{ target }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}

@@ -41,3 +41,8 @@ cite {
   padding-bottom: 2em;
   display: block;
 }
+
+
+a:focus {
+	outline: thin auto $light-gray ;
+}

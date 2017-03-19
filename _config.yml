@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pierre Kessler"
+  name             : "Bienvenue..."
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Terrain de jeu d'un éternel apprenti... depuis l'époque de la disquette en pierre polie."
+  bio              : "Sur le terrain de jeu d'un éternel apprenti... depuis l'époque de la disquette en pierre polie."
   location         : "Pays de Hanau"
   email            :
   flickr           : "piekes"
@@ -167,7 +167,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -191,12 +191,12 @@ collections:
     output: true
     permalink: /:collection/:path/
     long_name: "Macrophotographies"
-    
+
   b-archi:
     output: true
     permalink: /:collection/:path/
     long_name: "Architecture"
-  
+
   b-panos:
     output: true
     permalink: /:collection/:path/
@@ -254,11 +254,10 @@ defaults:
       path: ""
       type: b-archi
     values:
-      layout: single      
+      layout: single
 # _b-panos
   - scope:
       path: ""
       type: b-panos
     values:
       layout: single
-  
