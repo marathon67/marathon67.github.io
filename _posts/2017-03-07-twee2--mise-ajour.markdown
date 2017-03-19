@@ -29,14 +29,14 @@ $ gem install twee2
 ~~~~~
 Remarquez que je n'ai pas utilisé `sudo`. Car installer des *gems* au niveau du système peut poser de sérieux problèmes de sécurité. Je reviendrais sur l'installation de *Ruby* dans un billet ultérieur.
 
-## Les soucis
+### Les soucis
 
 Si vous compilez en l'état un fichier *Twine*, vous allez avoir deux problèmes :
 
 * L'auteur de *Twee2*, **Dan-Q** a choisi de ne pas traiter des passages aux noms spéciaux, comme **StoryMenu**. Ils étaient utilisés dans *Twine 1.4*, abandonnés dans les premières versions de *Sugarcube*, puis réintroduits dans les plus récentes.
 * La version de *Sugarcube* utilisée n'est pas non plus à jour. Les dernières livraisons ont apporté quelques ajouts que j'apprécie de pouvoir utiliser, comme la macro `<<capture>>`.
 
-## Où est Twee2 ?
+### Où est Twee2 ?
 
 Pour réaliser cette mise à jour, il faut d'abord localiser où est installé *Twee2* sur votre ordinateur. La procédure est identique sous *Windows* et *Linux*, seuls les noms des dossiers vont changer. Ouvrez un terminal de commande et entrez :
 ~~~
@@ -60,7 +60,7 @@ Le premier fichier, `format.js` est simplement la dernière version de *Sugarcub
 * Décompressez l'archive sur votre ordinateur
 * Remplacez le fichier `format.js` dans le dossier *Sugarcube2* de votre installation de *Twee2* par celui extrait de l'archive. Et voilà.
 
-## Prise en compte des noms de passage spéciaux
+### Prise en compte des noms de passage spéciaux
 
 Sur le [dépôt Github](https://github.com/Dan-Q/twee2) de *Twee2*, un utilisateur, **MCDemarco** a posté une modification du logiciel permettant de faire accepter les noms de passage spéciaux comme *StoryMenu*. Malheureusement, **Dan-Q**, ne l'a pas prise en compte pour l'instant. Nous allons le faire nous-mêmes, *à la main*.
 
