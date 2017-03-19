@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
+  gem 'jekyll-admin'
   #gem "jekyll-github-metadata"
   #gem 'jekyll-compose'
   #gem 'algoliasearch-jekyll', '~> 0.8.0'

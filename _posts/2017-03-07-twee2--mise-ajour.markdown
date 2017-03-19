@@ -1,16 +1,20 @@
 ---
+title: 'Twee2 : mise à jour'
 layout: single
-title: "Twee2 : mise à jour"
-date: "2017-03-07 14:58:48 +0100"
+date: '2017-03-07 14:58:48 +0100'
 categories: Twine
-summary: Twee2 est un outil bien sympathique, mais plus mis à jour depuis quelques mois. Voyons comment y remédier.
+summary: Twee2 est un outil bien sympathique, mais plus mis à jour depuis quelques
+  mois. Voyons comment y remédier.
 sidebar:
-  nav: "twinery"
+  nav: twinery
 header:
-  overlay_color: rgba(75, 75, 0, 0.5) # photo : rgba(0, 70, 0, 0.5), twine : rgba(75, 75, 0, 0.5), jekyll : rgba(0, 20, 120, 0.5), divers : rgba(0, 0, 70, 0.5)
+  overlay_color: rgba(75, 75, 0, 0.5)
 ---
+
+{% include toc %}
 Je me suis quelque peu énervé avec les dernières versions de *Twine*, les 2.1 et 2.1.1. Impossible de les faire tourner convenablement sur l'un quelconque de mes ordinateurs, que ce soit à la maison ou au bureau. Sous Linux ou Windows. Je me suis même laissé aller à un commentaire peu amène sur le forum...
 
+## Pourquoi Twee2 ?
 Du coup, j'en reviens à [Twee2](https://dan-q.github.io/twee2/). En gros, il s'agit d'un compilateur en ligne de commande pour des jeux Twine. Il présente quelques avantages en terme de souplesse d'utilisation :
 
 * Possibilité de scinder l'aventure en fichiers multiples
@@ -24,6 +28,8 @@ Pour peu que *Ruby* soit installé sur votre machine, rien de plus simple que d'
 $ gem install twee2
 ~~~~~
 Remarquez que je n'ai pas utilisé `sudo`. Car installer des *gems* au niveau du système peut poser de sérieux problèmes de sécurité. Je reviendrais sur l'installation de *Ruby* dans un billet ultérieur.
+
+## Les soucis
 
 Si vous compilez en l'état un fichier *Twine*, vous allez avoir deux problèmes :
 
