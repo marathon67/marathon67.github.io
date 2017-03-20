@@ -145,26 +145,24 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/Paris
+timezone: Europe/Paris offset +0100
 
 # Plugins
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-seo-tag
-  #  - algoliasearch-jekyll
-  #- jekyll-github-metadata
+  # - jekyll-seo-tag
+  # - algoliasearch-jekyll
+  # - jekyll-github-metadata
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
 
