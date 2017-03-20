@@ -89,8 +89,6 @@ Il vous reste maintenant à ouvrir `index.html` dans votre navigateur et vérifi
 Évidemment il vous faudrait encore enrichir la feuille de style pour adapter le *look* d'*OpenSeadragon* à celui de votre site.
 Je vous montre dans un tout prochain billet ce que cela donne intégré dans mon site *Jeckyll*.
 
-
----
 [^1]: Nous verrons dans un prochain billet la *fabrication* de telles images.
 [^2]: Parcourez par exemple les collections du [Metropolitan Museum of Art](http://www.metmuseum.org/art/collection) de New-York.
 [^3]: Allez faire votre *marché* sur le site du téléscope spatial [Hubble](http://hubblesite.org/images/wallpaper).

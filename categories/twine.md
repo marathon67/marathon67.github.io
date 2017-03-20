@@ -8,7 +8,7 @@ sidebar:
   nav: "twinery"
 header:
     overlay_filter: rgba(75, 75, 0, 0.5)
-summary: "Tous les billets sur la *fiction interactive* et mon logiciel favori pour créer ces récits numériques..."
+summary: "Un logiciel libre permettant de créer simplement *fictions interactives* et récits numériques"
 ---
 
 {% for post in site.categories[page.category] %}

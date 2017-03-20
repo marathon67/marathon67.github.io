@@ -28,9 +28,15 @@ body {
   padding: 0.1em;
 }
 
+.footnotes {
+	color: #9ba1a6;
+  border-top: 1px solid #9ba1a6;
+  margin-top: 2.5em;
+}
+
 .footnotes li{
   line-height: 1;
-  margin-top: -.75em;
+  margin-top: -.55em;
 }
 
 cite {
