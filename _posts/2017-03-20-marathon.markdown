@@ -1,0 +1,29 @@
+---
+layout: single
+title: "Marathon d'écriture interactive"
+date: "2017-03-20 11:18:16 +0100"
+summary: "Le 13 mai 2017, un samedi autour de Twine et de l'écriture interactive à l'Atelier Canopé de Strasbourg"
+categories: Twine
+sidebar:
+  nav: "twinery"
+header:
+    overlay_color: rgba(75, 75, 0, 0.5)
+---
+
+## Quoi ?
+Créer un *livre dont vous êtes le héros* en version numérique et multimédia, incluant du texte, des images, des documents sonores et même un zeste de programmation. Neuf heures pour une écriture en équipes de trois à cinq personnes, réalisée avec le logiciel libre et gratuit [Twine](http://www.twinery.org){:target="_blank"}.
+
+**QUAND ?** : le samedi 13 mai 2017, de 9 heures à 18 heures, non-stop.  
+**OÙ ?** : à l'atelier Canopé 67 – 23 rue du maréchal Juin Strasbourg
+
+### Qui participe ?
+Des équipes d'adultes issues des établissements scolaires, universitaires ou du monde associatif. Idéalement, elles regroupent des compétences diverses et complémentaires: écriture, graphisme, codage. Vous pouvez vous inscrire individuellement ou en groupe. Venir avec un projet déjà conçu... ou pas.
+
+### Des animateurs pour vous aider
+Les participants ne seront pas livrés à eux-mêmes : des experts de la documentation, de l’écriture, du numérique... encadreront ce marathon pour soutenir, guider, encourager les équipes dans les domaines de l'écriture, du codage, du graphisme, de la prise de son.
+Pas de compétition : l'ensemble des réalisations seront proposées en ligne sur le site de Canopé.
+
+## Chiche !
+Pour plus de renseignements, contactez **Laetitia Boulom**, médiatrice numérique responsable du projet – laetitia.boulom@reseau-canope.fr ou 03 88 45 51 70.
+Les inscriptions se prennent en ligne sur le [site de l'Atelier Canopé 67](http://www.crdp-strasbourg.fr/manifestations/marathon-decriture-interactive/){:target="_blank"}, à partir du 1er avril 2017.
+La participation au marathon d'écriture gratuite.
