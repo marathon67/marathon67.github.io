@@ -4,7 +4,7 @@ layout: single
 categories: Twine
 sidebar:
   nav: "twinery"
-summary: "Ce format d'histoire a une interface utilisateur assez conséquente : affichons-la en français"
+summary: "Ce format d'histoire a une interface utilisateur assez conséquente : affichons-la en français."
 ---
 ## Une interface étudiée pour la traduction
 L'interface de **Sugarcube2** est facile à traduire, car programmée spécifiquement pour cela. Toutes les chaînes de caractères qui en forment le texte sont codées sous forme de variables *Javascript*. Si vous lisez l'anglais, je vous invite à voir ce qu'en dit la [documentation officielle](http://www.motoslave.net/sugarcube/2/docs/localization.html).

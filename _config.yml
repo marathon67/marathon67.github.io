@@ -114,6 +114,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - to-do-list.md
 keep_files:
   - .git
   - .svn
