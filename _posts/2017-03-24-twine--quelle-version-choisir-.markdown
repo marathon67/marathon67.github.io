@@ -21,15 +21,13 @@ La vénérable **version 1.4.2** est encore assez utilisée... mais surtout par 
 * Les images sont incluses en Base64[^Base64] dans le code même de la page web, ce qui en limite le nombre, mais facilite la création
 * Il n'est pas possible d'y installer les dernières version des formats d'histoires
 
-Pour quelqu'un qui débute dans la rédaction d'histoires sous Twine, **1.4.2** n'est pas, de mon point de vue, un choix  pertinent.
-{: .notice--danger}
-
 {% include figure image_path="/assets/images/twine-1-42.jpg" alt="Figure 1 : l'éditeur de la version 1.4.2." caption="Figure 1 : l'éditeur de la version 1.4.2." %}
-
 
 * Télécharger la version 1.4.2 [pour Windows](http://twinery.org/downloads/twine_1.4.2_win.exe) et [pour Mac](http://twinery.org/downloads/twine_1.4.2_osx.zip)
 * [Mode d'emploi](http://twinery.org/wiki/twine1:reference){:target="_blank"} de la version 1.4.2
 
+Pour quelqu'un qui débute dans la rédaction d'histoires sous Twine, **1.4.2** n'est pas, de mon point de vue, un choix  pertinent.
+{: .notice--danger}
 
 ## Réellement stable : Twine 2.0.11
 
@@ -39,13 +37,13 @@ Son seul réel défaut est un certain manque d'ergonomie et de clarté dans la c
 
 Les formats d'histoire (Harlowe, Sugarcube...) livrés avec cette version ne sont pas à jour, mais il est facile d'en installer les dernières moutures.
 
-Pour une utilisation sur votre ordinateur, Twine **2.0.11.** est la version que je recommande. Et que j'utilise moi-même.
-{: .notice--danger}
-
 {% include figure image_path="/assets/images/twine2-0-11.jpg" alt="Figure 2 : l'éditeur de la version 2.0.11" caption="Figure 2 : l'éditeur de la version 2.0.11." %}
 
 * [Télécharger la version 2.0.11](http://twinery.org/){:target="_blank"} pour Linux, Mac ou Windows. Cette version est disponible en version 32 et 64 bits. Installez celle qui correspond à votre système d'exploitation.
 * [Mode d'emploi](http://twinery.org/wiki/twine2:guide){:target="_blank"} des versions 2
+
+Pour une utilisation sur votre ordinateur, Twine **2.0.11.** est la version que je recommande. Et que j'utilise moi-même.
+{: .notice--danger}
 
 ## Les malheurs de la série 2.1
 
@@ -66,7 +64,7 @@ En attendant que l'auteur de Twine réussisse à en éliminer les différents bu
 La version en ligne de Twine, comme son nom l'indique, ne va pas nécessiter d'installation au sens strict du terme sur votre ordinateur. Elle s'exécute intégralement dans votre navigateur Internet, comme la capture de la figure 4 ci-dessous le montre. Aucune inscription ni enregistrement ne sont nécessaires.
 
 * Cette version est utilisable même si vous n'avez pas le droit d'installer des logiciels
-* Elle nécessite une connnexion Internet
+* Elle nécessite une connnexion Internet et les temps de chargement peuvent s'avérer assez longs
 * La sauvegarde automatique de votre histoire se fait grâce aux possibilités de stockage local de votre navigateur
 * Twine Online est toujours la dernière version disponible du logiciel
 
@@ -76,6 +74,8 @@ Comme le montre la jauge cerclée de rouge sur la copie d'écran, l'espace de st
 
 **Twine Online** rendra bien des services aux enseignants et aux animateurs qui ne sont pas *maîtres* de leurs machines. Pour des raisons de sécurité de vos fichiers, préférez néanmoins une version installable.
 {: .notice--danger}
+
+* Accéder à [Twine Online](https://twinery.org/2){:target='_blank'}
 
 ## Et pour les geeks : Twee2
 
