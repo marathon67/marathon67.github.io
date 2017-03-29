@@ -72,10 +72,10 @@ La version en ligne de Twine, comme son nom l'indique, ne va pas nécessiter d'i
 
 Comme le montre la jauge cerclée de rouge sur la copie d'écran, l'espace de stockage disponible est ici limité. Gardez un œil sur la place restante et faites régulièrement des sauvegardes manuelles.
 
+* Accéder à [Twine Online](https://twinery.org/2){:target='_blank'}
+
 **Twine Online** rendra bien des services aux enseignants et aux animateurs qui ne sont pas *maîtres* de leurs machines. Pour des raisons de sécurité de vos fichiers, préférez néanmoins une version installable.
 {: .notice--danger}
-
-* Accéder à [Twine Online](https://twinery.org/2){:target='_blank'}
 
 ## Et pour les geeks : Twee2
 
