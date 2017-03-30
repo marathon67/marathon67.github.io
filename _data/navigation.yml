@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "Divers"
-    url: /categories/divers
-  - title: "Jekyll"
-    url: /categories/jekyll
-  - title: "Photo"
-    url: /categories/photo
-  - title: "Mégapixels"  
-    url: "/collection-archive/"
   - title: "Twine"
     url: /categories/twine
   - title: "Aventures"
     url: /aventures
+  - title: "Jekyll"
+    url: /categories/jekyll
+  - title: "Photo"
+    url: /categories/photo
+  - title: "Mégapixels"
+    url: "/collection-archive/"
+  - title: "Divers"
+    url: /categories/divers
   - title: "À propos"
     url: /about
 
