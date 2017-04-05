@@ -12,13 +12,12 @@ header:
 
 Mon collègue **Lionel Laugier**, médiateur numérique à l'**Atelier Canopé 68** de Mulhouse est un fin connaisseur en écriture de fiction interactive. Il vient de publier sous Canoprof[^canoprof] un document de formation extrêmement complet. L'auteur ne se limite pas aux aspects techniques, mais détaille les différentes stratégies pédagogiques possibles avec un logiciel d'écriture de fiction interactive. Une bonne place est faite à un historique des fictions interactives, tant dans le cinéma que dans la littérature ou les jeux vidéos.
 
-La partie plus technique, consacrée à **Twine**, vous propose des pas-à-pas très détaillés pour la création des passages, l'utilisation de variables, l'insertion d'images ou de vidéos... L'auteur prend le partie d'utiliser la version en ligne de **Twine** et le format d'histoire **Sugarcube**.
+La partie plus technique, consacrée à **Twine**, vous propose des pas-à-pas très détaillés pour la création des passages, l'utilisation de variables, l'insertion d'images ou de vidéos... L'auteur prend le parti d'utiliser la version en ligne de **Twine** et le format d'histoire **Sugarcube**.
 
 Outre **Twine**, **Ren'Py** est également brièvement abordé.
 
 Un grand bravo pour cette somme de travail considérable, qui n'a pas actuellement d'équivalent en langue française.
 
-[Voir la formation Canoprof](https://lionel-laugier.canoprof.fr/eleve/FORMATION%20PAF/Parcours_Fiction_Interactive/index.xhtml){: .btn .btn--info :target='_blank'}
-
+<a href="https://lionel-laugier.canoprof.fr/eleve/FORMATION%20PAF/Parcours_Fiction_Interactive/index.xhtml" target="_blank"><button class="btn btn--info" >Voir la formation Canoprof</button></a>
 
 [^canoprof]: [Canoprof](https://www.reseau-canope.fr/canoprof.html){:target='_blank'} logiciel auteur pour la  création de formations en ligne, distribué gratuitement par Réseau Canopé.

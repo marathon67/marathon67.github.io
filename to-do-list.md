@@ -8,12 +8,10 @@
 * Mettre en place le système de commentaires statiques
 * Essayer un hébergement Gitlab au lieu de Github
 
-
 ## Posts à écrire
 
 ### Twine
 * Pourquoi Twine ?
-* Quelle version de Twine choisir ?
 * Où héberger ses histoires ?
 * Organiser son espace de travail
 * Typologies d'utilisations
@@ -22,4 +20,3 @@
 ### Jekyll
 * Installer Jekyll sous Windows
 * Les Gigapixels avec OpenSeaDragon dans Jekyll
-* Maintenir un site Jekyll sans installation locale
