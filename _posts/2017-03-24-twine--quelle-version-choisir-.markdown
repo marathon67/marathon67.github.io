@@ -62,6 +62,7 @@ En attendant que l'auteur de Twine réussisse à en éliminer les différents bu
 ## La version en ligne
 
 La version en ligne de Twine, comme son nom l'indique, ne va pas nécessiter d'installation au sens strict du terme sur votre ordinateur. Elle s'exécute intégralement dans votre navigateur Internet, comme la capture de la figure 4 ci-dessous le montre. Aucune inscription ni enregistrement ne sont nécessaires.
+Afin d'obtenir un fonctionnement optimal, je vous recommande d'utiliser plutôt **Chrome** pour travailler avec la version en ligne de Twine : sous **Firefox** j'ai constaté de fréquents *plantages*.
 
 * Cette version est utilisable même si vous n'avez pas le droit d'installer des logiciels
 * Elle nécessite une connnexion Internet et les temps de chargement peuvent s'avérer assez longs
