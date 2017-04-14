@@ -353,7 +353,7 @@ body:hover .visually-hidden button {
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;
-    top: 2em;
+    top: 4em;
 
     > * {
       display: block;
@@ -503,4 +503,3 @@ a.reversefootnote {
     height: 100%;
   }
 }
-
