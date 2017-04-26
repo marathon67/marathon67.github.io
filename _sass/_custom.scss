@@ -29,10 +29,16 @@ body {
   padding: 0.1em;
 }
 
-.footnotes {
-	color: #9ba1a6;
-  border-top: 1px solid #9ba1a6;
-  margin-top: 2.5em;
+ul, ol {
+   list-style-position: inside;
+}
+
+ul, ol {
+   list-style-position: inside;
+}
+
+.footnotes ol{
+	list-style-position: outside;
 }
 
 .footnotes li{
