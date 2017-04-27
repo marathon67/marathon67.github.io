@@ -61,7 +61,7 @@ A partir de là, pour installer **Illume**, la manœuvre sera identique :
 
 * Ouvrez la boîte de dialogue des formats comme indiqué en figure 1
 * Sélectionnez l'onglet *Ajouter un format*
-* Dans la boîte de dialogue ci-dessus, entrez l'adresse du format. Selon les cas, ce sera une adresse de type web (`http://www.maximumverbosity.net/twine/Illume/format.js` pour Illume) ou de type fichier pour Sugarcube (`/home/pierre/Twine_2.0.11/SugarCube-2/format.js` sur mon ordianteur). Dans tous les cas, c'est l'adresse du fichier javascript `format.js` qu'il faut entrer.
+* Dans la boîte de dialogue ci-dessus, entrez l'adresse du format. Selon les cas, ce sera une adresse de type web (`http://www.maximumverbosity.net/twine/Illume/format.js` pour Illume) ou de type fichier pour Sugarcube (`/home/pierre/Twine_2.0.11/SugarCube-2/format.js` sur mon ordinateur). Dans tous les cas, c'est l'adresse du fichier javascript `format.js` qu'il faut entrer.
 * Cliquez sur le bouton vert `Ajouter`.
 
 Par suite de bugs récurrents, il n'est pas possible de mettre à jour ou d'installer des formats dans les versions 2.1.x de Twine. Voyez [cet article](/twine/twine-quelle-version-choisir/) pour le choix d'une version de Twine.
