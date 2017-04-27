@@ -110,7 +110,7 @@ Pour quelqu'un qui débute dans la rédaction d'histoires sous Twine, **Snowman*
 
 # Pourquoi plutôt Sugarcube ?
 
-Sugarcube est aujourd'hui mon format d'histoire par défaut, bien que j'ai commencé par écrire des histoires simples sous Harlowe. Sa plus grande richesse en matière d'outils simples pour enrichir programmatiquement une histoire a fini par me séduire. Avec Harlowe, vous finirez presque certainement par vous trouver un peu à l'étroit dans le jeu des fonctions et commandes proposées par défaut. Certes, il est toujours possible de créer de nouvelles fonctionnalités à grands coups de Javascript. Mais Sugarcube offre nativement la plupart des outils dont j'ai besoin. J'y ai apprécié tout particulièrement :
+**Sugarcube** est aujourd'hui mon format d'histoire par défaut, bien que j'ai commencé par écrire des histoires simples sous **Harlowe**. Sa plus grande richesse en matière d'outils simples pour enrichir programmatiquement une histoire a fini par me séduire. Avec **Harlowe**, vous finirez presque certainement par vous trouver un peu à l'étroit dans le jeu des fonctions et commandes proposées par défaut. Certes, il est toujours possible de créer de nouvelles fonctionnalités à grands coups de Javascript. Mais **Sugarcube** offre nativement la plupart des outils dont j'ai besoin. J'y ai apprécié tout particulièrement :
 
 * l'interface de navigation latérale, facilement personnalisable
 * la gestion fine des ambiances sonores
