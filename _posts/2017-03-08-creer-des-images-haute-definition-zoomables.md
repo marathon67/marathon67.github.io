@@ -16,9 +16,9 @@ Je vous propose aujourd'hui, toujours avec des outils libres et gratuits, d'affi
 ### VIPS
 [VIPS](http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS) est un logiciel de traitement graphique en ligne de commande, extrêmement puissant. Nous ne ferons ici qu'en effleurer les possibilités. *VIPS* nous servira à découper l'image d'origine en un grand nombre de carreaux permettant des opérations de *zooming* et un affichage fluide.
 
-* Si votre machine tourne sous *Linux*, *VIPS* fait à priori partie de votre distribution. Tapez `$ vips -v` dans un terminal pour le vérifier. Sinon, installez le package *VIPS* par la méthode habituelle.
+Si votre machine tourne sous *Linux*, *VIPS* fait à priori partie de votre distribution. Tapez `$ vips -v` dans un terminal pour le vérifier. Sinon, installez le package *VIPS* par la méthode habituelle.
 
-* Sous *Windows* ou *Mac* : le site *VIPS* vous propose des téléchargements adaptés à votre système. Installez *VIPS* par ce moyen.
+Sous *Windows* ou *Mac* : le site *VIPS* vous propose des téléchargements adaptés à votre système. Installez *VIPS* par ce moyen.
 
 Il existe une interface graphique à *VIPS*, baptisée *NIPS2*. Je la trouve inutilement lourde et compliquée pour l'utilisation très simple que nous allons faire.
 

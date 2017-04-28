@@ -52,6 +52,18 @@ Il offre des fonctions de statistiques, permet de lister les modifications effec
 
 # Mise à jour
 
+Pour mettre à jour une version de **Harlowe** ou **Sugarcube**,
+
+* Allez sur leurs sites respectifs et télécharger l' archive *.zip correspondante
+* Décompactez-là à l'endroit de votre choix. Pour ma part, je copie les formats dans un sous-répertoire de mon dossier Twine. Sous Linux, ceci me donnera `/home/pierre/Twine_2.0.11/SugarCube-2/`.
+
+A partir de là, pour installer **Illume**, la manœuvre sera identique :
+
+* Ouvrez la boîte de dialogue des formats comme indiqué en figure 1
+* Sélectionnez l'onglet *Ajouter un format*
+* Dans la boîte de dialogue ci-dessus, entrez l'adresse du format. Selon les cas, ce sera une adresse de type web (`http://www.maximumverbosity.net/twine/Illume/format.js` pour Illume) ou de type fichier pour Sugarcube (`/home/pierre/Twine_2.0.11/SugarCube-2/format.js` sur mon ordinateur). Dans tous les cas, c'est l'adresse du fichier javascript `format.js` qu'il faut entrer.
+* Cliquez sur le bouton vert `Ajouter`.
+
 Par suite de bugs récurrents, il n'est pas possible de mettre à jour ou d'installer des formats dans les versions 2.1.x de Twine. Voyez [cet article](/twine/twine-quelle-version-choisir/) pour le choix d'une version de Twine.
 {: .notice--danger}
 
@@ -98,7 +110,7 @@ Pour quelqu'un qui débute dans la rédaction d'histoires sous Twine, **Snowman*
 
 # Pourquoi plutôt Sugarcube ?
 
-Sugarcube est aujourd'hui mon format d'histoire par défaut, bien que j'ai commencé par écrire des histoires simples sous Harlowe. Sa plus grande richesse en matière d'outils simples pour enrichir programmatiquement une histoire a fini par me séduire. Avec Harlowe, vous finirez presque certainement par vous trouver un peu à l'étroit dans le jeu des fonctions et commandes proposées par défaut. Certes, il est toujours possible de créer de nouvelles fonctionnalités à grands coups de Javascript. Mais Sugarcube offre nativement la plupart des outils dont j'ai besoin. J'y ai apprécié tout particulièrement :
+**Sugarcube** est aujourd'hui mon format d'histoire par défaut, bien que j'ai commencé par écrire des histoires simples sous **Harlowe**. Sa plus grande richesse en matière d'outils simples pour enrichir programmatiquement une histoire a fini par me séduire. Avec **Harlowe**, vous finirez presque certainement par vous trouver un peu à l'étroit dans le jeu des fonctions et commandes proposées par défaut. Certes, il est toujours possible de créer de nouvelles fonctionnalités à grands coups de Javascript. Mais **Sugarcube** offre nativement la plupart des outils dont j'ai besoin. J'y ai apprécié tout particulièrement :
 
 * l'interface de navigation latérale, facilement personnalisable
 * la gestion fine des ambiances sonores
