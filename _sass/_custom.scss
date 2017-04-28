@@ -29,12 +29,8 @@ body {
   padding: 0.1em;
 }
 
-ul, ol {
+.notice li, .notice--danger li, .notice--primary li, .notice--info li, .notice--warning li, .notice--success li {
    list-style-position: inside;
-}
-
-.footnotes ol{
-	list-style-position: outside;
 }
 
 .footnotes li{
