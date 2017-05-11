@@ -16,7 +16,7 @@ header:
 
 ## Twine 2.1.3
 
-Depuis le début de la série 2.1 de Twine, je déplorais une série de bugs sévères m'obligeant à en rester à la bonne vieille et éprouvée version 2.0.11. La version 2.1.3 lève (presque) entièrement la malédiction.
+Depuis le début de la série 2.1 de **Twine**, je déplorais une série de bugs sévères m'obligeant à en rester à la bonne vieille et éprouvée version 2.0.11. La version 2.1.3 lève (presque) entièrement la malédiction.
 
 Les améliorations apportées ici sont surtout visibles au niveau de l'ergonomie. L'interface graphique a été entièrement repris, pour une bien meilleure lisibilité de la *carte des passages*. Un plus notable dès que votre histoire commence à s'étoffer quelque peu.
 
