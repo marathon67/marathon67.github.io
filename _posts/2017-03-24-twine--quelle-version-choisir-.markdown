@@ -11,7 +11,11 @@ header:
 ---
 
 {% include toc %}
-> Parmi les quatre moutures de Twine disponibles à ce jour (mars 2017), je vous recommande d'installer la version **2.0.11.** Pourquoi ? C'est ce que vous découvrirez dans la suite de ce billet.
+> Parmi les différentes moutures de Twine laquelle choisir ? Pourquoi ? C'est ce que vous découvrirez dans la suite de ce billet.
+>
+**M.A.J.** : depuis la publication de cet article, une nouvelle version de Twine est disponible. Voyez [comment la situation a évolué]({{ site.baseurl }}{% post_url 2017-05-11-twine--nouvelles-versions %}).
+
+
 
 ## L'ancêtre 1.4.2
 
