@@ -11,7 +11,7 @@ header:
 unpublished: true
 ---
 
-**Mike Hadley** (pseudo *mikewesthad*) vient d'annoncer sur le [forum Twine](http://twinery.org/forum/){:target="_blank"} la mise à disposition d'un dépôt **Github** intitulé [Twine Ressources](https://github.com/mikewesthad/twine-resources){:target="_blank"}. Il y propose des snippets[^snippets] pour enrichir vos propres histoires, réalisés à l'occasion d'un cours donné à ses étudiants.
+**Mike Hadley** (pseudo *mikewesthad*) vient d'annoncer sur le [forum Twine](http://twinery.org/forum/){:target="_blank"} la mise à disposition d'un dépôt **Github** intitulé [Twine Resources](https://github.com/mikewesthad/twine-resources){:target="_blank"}. Il y propose des snippets[^snippets] pour enrichir vos propres histoires, réalisés à l'occasion d'un cours donné à ses étudiants.
 
 L'ensemble est destiné à **Sugarcube 2** et se présente sous forme de mini-histoires à télécharger et *cannibaliser*. Les exemples proposés sont déjà assez nombreux à ce jour, et la liste devrait s'allonger.
 
