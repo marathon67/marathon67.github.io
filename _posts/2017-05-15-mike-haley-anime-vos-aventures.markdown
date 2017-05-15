@@ -18,8 +18,9 @@ L'ensemble est destiné à **Sugarcube 2** et se présente sous forme de mini-hi
 * Animations de textes et d'images, intégration de CSS et librairies Javascipt dans Twine
 * Images cliquables
 * Utilisation de polices de caractères personnalisées
-* Utilisation des css pour des fonds de passages individualisés, des boîtes de texte...
+* Utilisation des css pour des fonds de passages individualisés, des boîtes de texte
+* Hébergement des histoires sur Github...
 
-P.S. Allez faire un tour dans la partie [Aventures](/aventures) de ce blog, vous y trouverez aussi pas mal de snippets à *grapiller*.
+P.S. Allez faire un tour dans la partie [Aventures](/aventures) de ce blog, vous y trouverez aussi pas mal de snippets à *grappiller*.
 
 [^snippets]: Petits bouts de code utiles, partagés par un développeur et à recopier dans votre propre application / histoire.
