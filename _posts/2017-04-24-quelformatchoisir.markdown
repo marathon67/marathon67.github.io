@@ -16,7 +16,7 @@ header:
 
 Prêtez attention au menu principal de Twine, dans la colonne de droite, vous trouvez un item marqué **Formats**.
 
-{% include figure class="half" image_path="/assets/images/twine-formats01.jpg" alt="Figure 1 : sélectionner les formats" caption="Figure 1 : sélectionner les formats." %}
+{% include figure image_path="/assets/images/twine-formats01.jpg" alt="Figure 1 : sélectionner les formats" caption="Figure 1 : sélectionner les formats." %}
 
 Voyez sur la **figure 1** ci-dessus cet item marqué de rouge. Un clic fera apparaître une boîte de dialogue assez complexe : la boîte de paramétrage des formats.
 
