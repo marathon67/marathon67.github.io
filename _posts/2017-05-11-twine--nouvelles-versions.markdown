@@ -43,7 +43,7 @@ Si le nouveau passage n'existe pas, **Twine** le crée automatiqument, du moins 
 
 Prenons donc, en attendant la correction de ce bug minime, l'habitude de fermer *proprement* l'éditeur.
 
-{% include figure class="half" image_path="/assets/images/twine-bug02.jpg" alt="Figure 2 : J'ai mal fermé l'éditeur." caption="Figure 2 : J'ai mal fermé l'éditeur." %}
+{% include figure image_path="/assets/images/twine-bug02.jpg" alt="Figure 2 : J'ai mal fermé l'éditeur." caption="Figure 2 : J'ai mal fermé l'éditeur." %}
 
 Pour mettre à jour les formats d'histoire, voir la section correspondante dans mon article  [Twine : quel format choisir]({{ site.baseurl }}{% post_url 2017-04-24-quelformatchoisir %}).
 {: .notice--danger}
