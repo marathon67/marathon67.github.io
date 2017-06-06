@@ -8,7 +8,7 @@
 .layout--splash .archive__item-excerpt {
   font-size: .7em;
   line-height: 120%;
- }
+}
 .layout--splash table,.layout--splash td, .layout--splash tr {
   border: none;
   vertical-align: top;
@@ -22,8 +22,10 @@
 }
 body {
   line-height: 1.35;
-  padding: 80px 0 0;  // padding-top equal to masthead height or greater
+  margin: 0;
+  padding: 85px 0 0;  // padding-top equal to masthead height or greater
 }
+
 .nav__sub-title {
   margin: 0.85em 0 0 0;
   padding: 0.1em;
@@ -45,6 +47,23 @@ body {
   line-height: 1;
   margin-top: -.55em;
 }
+
+footnotes li:before {
+   content:"";
+   display:block;
+   height:85px; /* fixed header height*/
+   margin:-85px 0 0; /* negative fixed header height */
+ }   
+
+.footnotes ol{
+  border-top: solid 2px #e2e3e3;
+  margin-top: 3em;
+}
+
+.footnotes li:first-child {
+  margin-top: 1em;
+}
+
 
 cite {
   font-size: .75em;
