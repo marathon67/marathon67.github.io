@@ -90,6 +90,7 @@ Minimal Mistakes
   : [Dépôt Github](https://github.com/mmistakes/minimal-mistakes/){: target="_blank"}
   : [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/){: target="_blank"}
   : Auteur : Michael Rose
+  : Avec quelques modifications, *Minimal Mistakes* est le thème utilisé pour le site *Bac-à-sable*.
 
 Skinny Bones
   : [Démonstration du thème](https://mmistakes.github.io/skinny-bones-jekyll/){: target="_blank"}
