@@ -2,6 +2,16 @@
    Own Customization - Pierre Kessler
    ========================================================================== */
 
+dt {
+  font-size: $type-size-6;
+  color: $dark-gray;       
+}
+
+dd {
+    border-left: solid 2px $light-gray ;
+    padding-left: .25em;
+}
+
 .layout--splash h2 {
   font-size: 1em;
 }
