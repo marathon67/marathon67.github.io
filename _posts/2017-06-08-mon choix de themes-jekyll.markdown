@@ -87,6 +87,7 @@ Feeling Responsive
 Minimal Mistakes
   : [Démonstration du thème](https://mmistakes.github.io/minimal-mistakes/){: target="_blank"}
   : [Dépôt Github](https://github.com/mmistakes/minimal-mistakes/){: target="_blank"}
+  : [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/){: target="_blank"}
   : Auteur : Michael Rose
 
 Skinny Bones
