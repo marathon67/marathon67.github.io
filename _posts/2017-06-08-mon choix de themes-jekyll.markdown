@@ -82,6 +82,7 @@ Airspace
 Feeling Responsive
   : [Démonstration du thème](http://phlow.github.io/feeling-responsive/){: target="_blank"}
   : [Dépôt Github](https://github.com/Phlow/feeling-responsive){: target="_blank"}
+  : [Documentation](https://phlow.github.io/feeling-responsive/documentation/){: target="_blank"}
   : Auteur : Moritz Sauer - Phlow
 
 Minimal Mistakes
