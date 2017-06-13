@@ -17,6 +17,29 @@ header:
 > Ils intègrent des fonctionnalités usuelles sur un site moderne : design *responsive*, barre de navigation fixe, menu *hamburger*... Certains sont pourvus d'une documentation très complète pour aider à les personnaliser.
 > Nombre d'entre eux sont des portages sous Jekyll de thèmes pré-exitants.
 
+### Les thèmes *officiels*
+>Trois thèmes distribués avec Jekyll ou directement proposés par l'équipe des auteurs. Une référence pour un codage propre des thèmes, à étudier pour apprendre à personnaliser vos sites.
+
+Minima
+  : [Démonstration du thème](https://jekyll.github.io/minima/History.html){: target="_blank"}
+  : [Dépôt Github](https://github.com/jekyll/minima){: target="_blank"}
+  : Auteurs : Joel Glovier, Ben Balter, Parker Moore et d'autres
+  : Minima est le thème par défaut installé d'origine avec toute nouvelle instance de Jekyll. Simple mais efficace, une référence.
+
+
+Swiss
+  : [Démonstration du thème](http://broccolini.net/swiss/){: target="_blank"}
+  : [Dépôt Github](https://github.com/jekyll/minima){: target="_blank"}
+  : Auteur : Diana Mounter
+  : Swiss est un thème typographique, aux titres énormes, inspiré par le design ...suisse. Très élégant dans sa simplicité.
+
+Athena
+  : [Démonstration du thème](http://broccolini.net/athena/){: target="_blank"}
+  : [Dépôt Github](https://github.com/broccolini/athena){: target="_blank"}
+  : Auteur : Diana Mounter
+  : Encore une création très épurée de Diana Mounter. Convient parfaitement à un blog très textuel, par exemple.
+
+
 ### Les thèmes *One Page*
 >Une présentation moderne de votre site : au lieu de parcourir diverses pages, tout le contenu se concentre sur une unique page divisée en plusieurs sections, vers lesquelles le visteur va *glisser* successivement. Cette structure ne convient pas vraiment à des sites très complexes. Elle est parfaitement adaptée à la présentation d'un projet, d'une association ou d'une petite entreprise.
 
