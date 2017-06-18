@@ -26,7 +26,6 @@ Minima
   : Auteurs : Joel Glovier, Ben Balter, Parker Moore et d'autres
   : Minima est le thème par défaut installé d'origine avec toute nouvelle instance de Jekyll. Simple mais efficace, une référence.
 
-
 Swiss
   : [Démonstration du thème](http://broccolini.net/swiss/){: target="_blank"}
   : [Dépôt Github](https://github.com/jekyll/minima){: target="_blank"}
@@ -167,7 +166,14 @@ So Simple
 HCZ Material theme
   : [Démonstration du thème](https://codeasashu.github.io/hcz-jekyll-blog/){: target="_blank"}
   : [Dépôt Github](https://github.com/codeasashu/hcz-jekyll-blog){: target="_blank"}
-  : Auteur ; Ashutosh Chaudhary
+  : Auteur : Ashutosh Chaudhary
+
+  Basically Basic
+  : [Démonstration du thème](https://mmistakes.github.io/jekyll-theme-basically-basic/){: target="_blank"}
+  : [Dépôt Github](https://github.com/mmistakes/jekyll-theme-basically-basic){: target="_blank"}
+  : Auteur : Michael Rose
+  : Michael Rose se propose ici de remplacer le thème par défaut *Minima*, par un thème plus élaboré et facile à personnaliser. Une documentation complète est disponible sur le dépôt Github. Voir aussi les examples de *posts* dans la démo du thème.
+
 
 ### Les thèmes *Photo*
 
