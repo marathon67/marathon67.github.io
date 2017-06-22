@@ -219,7 +219,7 @@ Ethereal
   : Un thème assez proche des *One Page*, présentant la particularité d'un défilement uniquement horizontal d'un écran à l'autre.
 
 Base
-  : [Démonstration du thème](https://github.com/CloudCannon/base-jekyll-template){: target="_blank"}
-  : [Dépôt Github](https://orange-ape.cloudvent.net/){: target="_blank"}
+  : [Démonstration du thème](https://orange-ape.cloudvent.net/){: target="_blank"}
+  : [Dépôt Github](https://github.com/CloudCannon/base-jekyll-template){: target="_blank"}
   : Auteur : CloudCannon
   : Un thème destiné à créer une base de connaissances composés d'articles et de tutoriels vidéo. Propose une recherche par Javascript intégrée.
