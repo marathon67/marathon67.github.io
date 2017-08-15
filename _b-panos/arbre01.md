@@ -18,7 +18,7 @@ C'est une petite prune qui mûrit dès mi-août, et qui est disponible sur les m
 
 ### Étymologie
 
-Le mot, d'origine lorraine, est la variante moyen-allemande de l'allemand standard *Zwetsche*, *Zwetschge* primitivement *Twetzschen*, qui serait emprunté au franco-provençal ou gallo-italique *davascena (cf. jurassien daveigne, comtois davdgna), issu du latin tardif *damascēna*, emprunté à son tour au grec *damaskênon*, signifiant « prune de Damas ».
+Le mot, d'origine lorraine, est la variante moyen-allemande de l'allemand standard *Zwetsche*, *Zwetschge* primitivement *Twetzschen*, qui serait emprunté au franco-provençal ou gallo-italique *davascena* (cf. jurassien *daveigne*, comtois *davdgna*), issu du latin tardif *damascēna*, emprunté à son tour au grec *damaskênon*, signifiant « prune de Damas ».
 
 ### Utilisation
 
