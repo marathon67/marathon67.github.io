@@ -1,5 +1,5 @@
 ---
-title: "*WebSlides.js*, revisité"
+title: "*WebSlides.js*, revisité."
 date: "2017-09-21 15:00:20 +0200"
 layout: single
 categories: Twine, Photo
