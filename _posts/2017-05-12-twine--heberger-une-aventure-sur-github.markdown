@@ -8,7 +8,7 @@ sidebar:
 summary: "Hébergez gratuitement vos histoires sur Internet. Et bénéficiez d'un contrôle de versions pour le même prix."
 header:
     overlay_color: rgba(75, 75, 0, 0.5)
-published: false
+published: true
 ---
 
 {% include toc %}
