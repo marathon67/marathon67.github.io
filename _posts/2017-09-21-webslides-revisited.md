@@ -1,11 +1,11 @@
 ---
-title: "*WebSlides.js*, revisité."
+title: "*WebSlides.js*, revisité"
 date: "2017-09-21 15:00:20 +0200"
 layout: single
 categories: Twine, Photo
 sidebar:
   nav: "twinery"
-summary: "Améliorer *Webslides.js* par une extension bien utile"
+summary: "Améliorer *Webslides.js* par une extension bien utile."
 header:
     overlay_color: rgba(75, 75, 0, 0.5)
 ---
