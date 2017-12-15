@@ -26,6 +26,8 @@ docs:
         url: /tags/
   - title: Références
     children:
+      - title: "F2P"
+        url: "https://www.forumdephotos.com/"
       - title: "Twine"
         url: "https://twinery.org"
       - title: "Sugarcube 2"
@@ -126,6 +128,8 @@ pictures:
           url: /tags/
     - title: "Références"
       children:
+        - title: "F2P"
+          url: "https://www.forumdephotos.com/"
         - title: "OpenSeaDragon"
           url: "https://openseadragon.github.io/"
         - title: "Zerene Stacker"
@@ -157,6 +161,8 @@ giga:
           url: /tags/
     - title: "Références"
       children:
+        - title: "F2P"
+          url: "https://www.forumdephotos.com/"
         - title: "OpenSeaDragon"
           url: "https://openseadragon.github.io/"
         - title: "Hugin"

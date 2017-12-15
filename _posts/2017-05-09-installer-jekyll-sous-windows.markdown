@@ -18,9 +18,9 @@ header:
 
 ## Prélude : installer Ruby
 
-**Jekyll** est un logiciel développé avec le langage de programmation **Ruby**. Relativement récent, **Ruby** est présent par défaut sur les systèmes Mac et Linux, mais pas sous Windows. Il nous faudra donc commencer par installer  **Ruby**. Ce sera aussi l'occasion de nous remettre à utiliser la bonne vieille fenêtre de commandes.
+**Jekyll** est un logiciel développé avec le langage de programmation **Ruby**. Relativement récent, **Ruby** est présent par défaut sur les systèmes Mac et Linux, mais pas sous Windows. Il nous faudra donc commencer par installer  **Ruby**. Ce sera aussi l'occasion de nous remettre à utiliser une bonne vieille fenêtre de commandes.
 
-Rendez-vous sur le site de **[Ruby](https://rubyinstaller.org/downloads/){:target="_blank"}** et téléchargez la dernière version de la série 2.2 de *Ruby-installer pour Windows 64*. Début juin 2017, il s'agit de *Ruby 2.2.6 (x64)*. Téléchargez également la version correspondante du *Ruby Dev-kit*, en bas de la même page web.
+Rendez-vous sur le site de **[RubyInstaller](https://rubyinstaller.org/downloads/){:target="_blank"}** et téléchargez la dernière version de la série 2.2 de *Ruby-installer pour Windows 64*. Début juin 2017, il s'agit de *Ruby 2.2.6 (x64)*. Téléchargez également la version correspondante du *Ruby Dev-kit*, en bas de la même page web.
 
 Installez **Ruby** de la façon habituelle : lancez l'installeur par un double clic. Deux points de détails à respecter cependant :
 * Choisissez un dossier d'installation dont le nom ne comprend pas d'espace (Plutôt `C:\Ruby` que `C:\Program Files\Ruby`)
@@ -80,7 +80,7 @@ Vérifiez enfin votre installation, toujours dans la fenêtre de commandes :
 ```
 jekyll --version
 ```
-Si tout se passe bien, vous pouvez maintenant sauter la section suivante et aller directement à Installer [Git pour Windows](#installer-git-pour-windows).
+Si tout se passe bien, vous pouvez maintenant sauter la section suivante et aller directement à [Installer Git pour Windows](#installer-git-pour-windows).
 
 ### Erreur SSL
 
@@ -120,6 +120,12 @@ Fermez, puis rouvrez votre fenêtre de commandes. Ceci fait, vous pouvez mainten
 [Téléchargez](https://git-scm.com/download/win){:target="_blank"} le logiciel et installez-le de la façon habituelle. Il faudra porter attention à quelques options durant le processus d'installation.
 
 {% include figure image_path="/assets/images/git2.png" alt="Figure 3 : Git pour Windows - Options." caption="Figure 3 : Git pour Windows - Options." %}
+
+Dans les panneaux suivants, validez également les options :
+* Use Git from GitBash only
+* Checkout Windows-style, commit Linux-style line endings
+* Enable file system caching
+* Enable Git Credential Manager
 
 
 ## Installer Atom
