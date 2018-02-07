@@ -7,7 +7,7 @@ author_profile: false
 sidebar:
   nav: "jekyll"
 header:
-    overlay_filter: rgba(0, 20, 120, 0.5)
+    overlay_image: /assets/images/bandeau_lichens.jpg
 summary: "Tous les billets concernant *Jekyll*, le générateur de sites statiques diffusé par Github..."  
 ---
 

@@ -231,8 +231,8 @@ defaults:
       layout: single
       author_profile: true
       header:
-        overlay_image: /assets/images/unsplash-image-1.jpg
-        caption: "Crédit Photo : **Unsplash**"
+        overlay_image: /assets/images/bandeau_agrion01.jpg
+        caption: "Photo P. Kessker"
 
 # _docs
   - scope:

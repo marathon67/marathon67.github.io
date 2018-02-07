@@ -6,7 +6,7 @@ date: '2017-02-22 11:48:41 -0400'
 summary: Dans la lignée des *Livres dont vous êtes le héros*, quelques récits interactifs
   réalisés avec **Twine**.
 header:
-  overlay_filter: rgba(125, 0, 0, 0.5)
+  overlay_image: /assets/images/bandeau_aster.jpg
 feature_row:
 - image_path: assets/images/mini-monde_th.jpg
   alt: Le Mini-Monde

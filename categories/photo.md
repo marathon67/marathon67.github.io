@@ -7,7 +7,7 @@ author_profile: false
 sidebar:
   nav: "pictures"
 header:
-  overlay_filter: rgba(0, 70, 0, 0.5)
+  overlay_image: /assets/images/bandeau_agrion02.jpg
 summary: "Et surtout *photo augmentée* : stacking, panoramas, haute définition zoomable..."
 ---
 

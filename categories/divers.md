@@ -7,7 +7,7 @@ author_profile: false
 sidebar:
   nav: "docs"
 header:
-  overlay_filter: rgba(0, 0, 70, 0.5)
+  overlay_image: /assets/images/bandeau_mousses.jpg
 summary: "La vie du site, les événements, les billets d'humeur..."
 ---
 

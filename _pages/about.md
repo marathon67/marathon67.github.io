@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 summary: "Le *Bac à Sable* et son auteur principal, en deux mots."
 header:
-   overlay_filter: rgba(70, 0, 0, 0.5)
+   overlay_image: /assets/images/bandeau_pap01.jpg
 ---
 
 ## Quoi ?

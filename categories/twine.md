@@ -7,7 +7,7 @@ author_profile: false
 sidebar:
   nav: "twinery"
 header:
-    overlay_filter: rgba(75, 75, 0, 0.5)
+    overlay_image: /assets/images/bandeau_ciel.jpg
 summary: "Un logiciel libre permettant de créer simplement *fictions interactives* et récits numériques"
 ---
 

@@ -6,7 +6,7 @@ author_profile: true
 
 summary: "Le *Bac à Sable* est à votre écoute."
 header:
-   overlay_filter: rgba(70, 0, 0, 0.5)
+   overlay_image: /assets/images/bandeau_orchi01.jpg
 ---
 
 ## Un mot à nous dire ?
